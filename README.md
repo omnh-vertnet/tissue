@@ -1,4 +1,4 @@
 tissue
 ======
 
-Issue tracking for SNOMNH Tissue data in the VertNet portal (portal.vertnet.org).
+Issue tracking for OMNH Tissue data in the VertNet portal (portal.vertnet.org).
