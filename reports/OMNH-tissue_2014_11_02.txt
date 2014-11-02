@@ -1,0 +1,90 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 78
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-16 ; Times: 1
+	Date: 2014-10-20 ; Times: 2
+	Date: 2014-10-25 ; Times: 1
+	Date: 2014-10-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "salinoctomys" ; Times: 1
+	Query: "biogeographic" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 2
+	Query: "tympanoctomys" ; Times: 2
+	Query: "speothos" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 166 download events in this period)
+Total number of records downloaded: 181 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 181
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 1
+	Date: 2014-10-20 ; Times: 2
+	Date: 2014-10-21 ; Times: 2
+	Date: 2014-10-22 ; Times: 3
+	Date: 2014-10-25 ; Times: 2
+	Date: 2014-10-27 ; Times: 1
+	Date: 2014-10-28 ; Times: 2
+	Date: 2014-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "octodontidae" ; Times: 1
+	Query: "Didelphis Virginiana" ; Times: 1
+	Query: "stateprovince:"Colorado" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "dipodomys (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "stateprovince:"Texas" class:Amphibia year >= 1888 year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 65
+Total number of records retrieved from searches: 1775
+Number of download events that retrieved data from the resource: 94
+Total number of records downloaded: 15298
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 65
+Total number of records retrieved from searches: 1775
+Number of download events that retrieved data from the resource: 94
+Total number of records downloaded: 15298
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
