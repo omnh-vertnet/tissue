@@ -1,0 +1,110 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 3
+	Date: 2015-02-02 ; Times: 2
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: "specificepithet:dorsalis genus:delomys" ; Times: 1
+	Query: "sistrurus miliarius streckeri" ; Times: 1
+	Query: "Lithobates catesbeianus year >= 2003 year <= 2005" ; Times: 1
+	Query: "genus:andalgalomys" ; Times: 1
+	Query: "reptilia county:"Cimarron"" ; Times: 1
+	Query: "amphibia county:"Cimarron"" ; Times: 2
+	Query: "regina rigida" ; Times: 1
+	Query: "county:"Seward" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "county:"Seward" stateprovince:"Nebraska" year >= 1960 year <= 2015" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:miliarius genus:Sistrurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 326 download events in this period)
+Total number of records downloaded: 3050 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2561
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-07 ; Times: 3
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 3
+	Date: 2015-02-13 ; Times: 7
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-25 ; Times: 5
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "Charina bottae" ; Times: 2
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "specificepithet:catesbeianus" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "stateprovince:"Tennessee" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "stateprovince:"Louisiana" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Odocoileus institutioncode:OMNH" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Bolomys" ; Times: 1
+	Query: "stateprovince:"North Carolina" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "specificepithet:sphenocephala" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 101
+Total number of records retrieved from searches: 1997
+Number of download events that retrieved data from the resource: 79
+Total number of records downloaded: 4144
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 129
+Total number of records retrieved from searches: 2163
+Number of download events that retrieved data from the resource: 198
+Total number of records downloaded: 20387
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
