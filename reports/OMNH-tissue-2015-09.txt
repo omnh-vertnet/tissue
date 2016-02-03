@@ -1,0 +1,229 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 1223
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: South Africa ; Times: 12
+	Country: Unknown ; Times: 9
+	Country: Mexico ; Times: 18
+	Country: United States ; Times: 79
+	Country: Chile ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-09 ; Times: 6
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-11 ; Times: 5
+	Date: 2015-09-14 ; Times: 5
+	Date: 2015-09-15 ; Times: 4
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 5
+	Date: 2015-09-29 ; Times: 7
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-02 ; Times: 9
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-07 ; Times: 8
+	Date: 2015-09-05 ; Times: 14
+	Date: 2015-09-04 ; Times: 9
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-26 ; Times: 7
+	Date: 2015-09-20 ; Times: 5
+	Date: 2015-09-23 ; Times: 17
+	Date: 2015-09-08 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Sistrurus catenatus" ; Times: 5
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "Shinisaurus institutioncode:OMNH" ; Times: 1
+	Query: "human evolution" ; Times: 3
+	Query: "Lasiurus ega" ; Times: 3
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "class:Reptilia county:&#34;Tillman&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 3
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "dromiciops gliroides" ; Times: 2
+	Query: "Egretta tissue:1" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "Morelia viridis" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 3
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "Oryzomys texensis" ; Times: 3
+	Query: "Colinus type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea tissue:1" ; Times: 2
+	Query: "regina tissue:1" ; Times: 5
+	Query: "necromys lactens" ; Times: 2
+	Query: "Eptesicus fuscus oklahoma" ; Times: 1
+	Query: "Leslie Canyon Arizona" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 2
+	Query: "Neotoma leucodon" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 5
+	Query: "hyla versicolor ( hyla chrysoscelis) year &gt;= 1980 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "Shinisaurus" ; Times: 9
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "genus:lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "(terrapene) tissue:1" ; Times: 2
+	Query: "Anaxyrus debilis" ; Times: 5
+	Query: "pig tissue:1" ; Times: 3
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "crocodylia tissue:1" ; Times: 3
+	Query: "corcovado" ; Times: 1
+	Query: "type:specimen order:Primates year &gt;= 2008 institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus tissue:1" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea county:&#34;cimarron&#34; stateprovince:&#34;oklahoma&#34; tissue:1" ; Times: 1
+	Query: "terrapene tissue:1" ; Times: 1
+	Query: "thamnophis stateprovince:&#34;montana&#34; tissue:1" ; Times: 1
+	Query: "reptilia catalognumber:6380" ; Times: 1
+	Query: "specificepithet:asio genus:megascops tissue:1" ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "SHinisaurus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Tillman&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "omnh siler year &gt;= 2010 year &lt;= 2015" ; Times: 2
+	Query: "Varanus institutioncode:OMNH" ; Times: 1
+	Query: "Leslie Canyon" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 3
+	Query: "uria aalge type:specimen institutioncode:OMNH (skin)" ; Times: 1
+	Query: "DROMICIOPS GLIROIDES" ; Times: 10
+	Query: "(leslie canyon)" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "Colinus virginianus type:specimen tissue:1" ; Times: 1
+	Query: "hyla versicolor ( hyla chrysoscelis) year &gt;= 1950 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "specificepithet:guttatus family:colubridae" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 3
+	Query: "Nycticeius humeralis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 1045 download events in this period)
+Total number of records downloaded: 9612
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 80
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 9
+	Date: 2015-09-10 ; Times: 11
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-16 ; Times: 21
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 6
+	Date: 2015-09-29 ; Times: 11
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "omnh birds" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Neovison vison" ; Times: 2
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea tissue:1" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "dendrobates auratus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "Lithobates blairi" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Spizella pallida from the United States" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Manis temminckii" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "Crotaphytus tissue:1" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
