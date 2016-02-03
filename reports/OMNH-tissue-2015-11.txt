@@ -1,0 +1,162 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 457
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Brazil ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-27 ; Times: 3
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 2
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-19 ; Times: 5
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 5
+	Date: 2015-11-10 ; Times: 4
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-05 ; Times: 2
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-13 ; Times: 3
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-14 ; Times: 3
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gorilla genus:gorilla" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "kudzu" ; Times: 3
+	Query: "30141" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Oklahoma&#34; month &gt;= 10 month &lt;= 12" ; Times: 1
+	Query: "10993" ; Times: 1
+	Query: "plestiodon egregius tissue:1" ; Times: 1
+	Query: "specificepithet:longirostris genus:Sorex tissue:1" ; Times: 1
+	Query: "conepatus chinga" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "trachemys scripta tissue:1" ; Times: 2
+	Query: "Crotalus horridus type:specimen year &gt;= 1970 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "balearica tissue" ; Times: 1
+	Query: "Himantopus himantopus tissue:1" ; Times: 1
+	Query: "Sceloporus graciosus" ; Times: 2
+	Query: "salpinctes obsoletus tissue:1" ; Times: 2
+	Query: "Lynx rufus SNOMNH" ; Times: 2
+	Query: "cerorhinca tissue:1" ; Times: 1
+	Query: "Larus marinus tissue:1" ; Times: 1
+	Query: "pike county missouri" ; Times: 2
+	Query: "Sciuridae continent:South America tissue:1" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Oklahoma&#34; month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "berlandieri tissue:1" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "class:reptilia county:&#34;pushmataha&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:poecile tissue:1" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 2
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 751 download events in this period)
+Total number of records downloaded: 2794
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-24 ; Times: 4
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-03 ; Times: 15
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-10 ; Times: 4
+	Date: 2015-11-13 ; Times: 3
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-14 ; Times: 3
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-01 ; Times: 6
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-07 ; Times: 5
+	Date: 2015-11-23 ; Times: 3
+	Date: 2015-11-08 ; Times: 2
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-02 ; Times: 8
+	Date: 2015-11-25 ; Times: 3
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-04 ; Times: 4
+	Date: 2015-11-05 ; Times: 4
+	Date: 2015-11-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "class:amphibia stateprovince:&#34;Oklahoma&#34; month &gt;= 10 month &lt;= 12" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "type:specimen order:Testudines stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Oklahoma&#34; month &gt;= 10 month &lt;= 12" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus tissue:1" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:Hyla country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "type:specimen order:Testudines stateprovince:&#34;Oklahoma&#34; mappable:1" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Sistrurus miliarius type:specimen mappable:1" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Oklahoma&#34; month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "elgaria" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+	Query: "Farancia abacura class:Reptilia mappable:1" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "spring salamander" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "neovison vison" ; Times: 3
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
