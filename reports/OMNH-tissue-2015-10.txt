@@ -1,0 +1,199 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 1002
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 55
+	Country: Chile ; Times: 9
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-15 ; Times: 14
+	Date: 2015-10-12 ; Times: 5
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 10
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-21 ; Times: 5
+	Date: 2015-10-20 ; Times: 4
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 8
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-30 ; Times: 8
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 2
+	Query: "kinosternidae AND (kinosternon) tissue:1" ; Times: 1
+	Query: "Walnut Mountain Plethodon" ; Times: 1
+	Query: "Lithobates blairi type:specimen tissue:1" ; Times: 1
+	Query: "Aspidoscelis burti" ; Times: 1
+	Query: "reptilia county:&#34;marshall&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 8
+	Query: "kinosternon tissue:1" ; Times: 1
+	Query: "Chrysemys tissue:1" ; Times: 3
+	Query: "&#34;genomic&#34; specificepithet:cooperii genus:Accipiter institutioncode:OMNH" ; Times: 1
+	Query: "Ophisaurus tissue:1" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "ocgr 10312" ; Times: 4
+	Query: "catalognumber:9736 institutioncode:OMNH" ; Times: 2
+	Query: "graptemys tissue:1" ; Times: 3
+	Query: "pseudemys tissue:1" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "Lithobates sphenocephalus type:specimen tissue:1" ; Times: 2
+	Query: "morelia viridis" ; Times: 1
+	Query: "kinosternidae tissue:1" ; Times: 2
+	Query: "10164" ; Times: 1
+	Query: "type:specimen specificepithet:semitorquatus genus:Polihierax tissue:1" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Alabama&#34; mappable:1" ; Times: 1
+	Query: "chelydra tissue:1" ; Times: 1
+	Query: "pseudemys institutioncode:OMNH tissue:1" ; Times: 3
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Sciuridae continent:South America tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Alabama&#34; year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "terrapene tissue:1" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "apalone tissue:1" ; Times: 3
+	Query: "(kinosternon) tissue:1" ; Times: 1
+	Query: "lycalopex" ; Times: 1
+	Query: "Plethodon kiamichi Plethodon kiamichi" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 2
+	Query: "genus:Leopardus institutioncode:OMNH" ; Times: 1
+	Query: "Adesmia" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "Rattlesnakes" ; Times: 1
+	Query: "chrysemys tissue:1" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus tissue:1" ; Times: 1
+	Query: "testudines institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 9
+	Query: "specificepithet:hernandesi genus:Phrynosoma tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 823 download events in this period)
+Total number of records downloaded: 3087
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 5
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-30 ; Times: 10
+	Date: 2015-10-31 ; Times: 3
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-21 ; Times: 6
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Lithobates sphenocephalus type:specimen tissue:1" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;arkansas&#34; month &gt;= 10 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "Lithobates blairi type:specimen tissue:1" ; Times: 2
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "trachemys tissue:1" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;oklahoma&#34; month &gt;= 10 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "kinosternon tissue:1" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;arkansas&#34; month &gt;= 10 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "graptemys tissue:1" ; Times: 1
+	Query: "pseudemys tissue:1" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;arkansas&#34; month &gt;= 9 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;oklahoma&#34; month &gt;= 9 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "kinosternidae tissue:1" ; Times: 1
+	Query: "phrynosoma tissue:1" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Sciuridae continent:South America tissue:1" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "apalone tissue:1" ; Times: 2
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Walnut Mountain Plethodon" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "(Ctenomys opimus)" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 1
+
+
+End of report.
