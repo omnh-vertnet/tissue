@@ -1,0 +1,131 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 646
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-22 ; Times: 4
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-04 ; Times: 4
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-27 ; Times: 5
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "30149" ; Times: 1
+	Query: "dusicyon" ; Times: 1
+	Query: "genus:canis catalognumber:8897 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:(multiplicata OR tynerensis) genus:Eurycea" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;Armadillo&#34; mappable:1" ; Times: 1
+	Query: "genus:canis catalognumber:7847 institutioncode:OMNH" ; Times: 2
+	Query: "neotoma floridana year &gt;= 2005 year &lt;= 2010 tissue:1" ; Times: 1
+	Query: "Eurycea tynerensis 1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "genus:Cerorhinca tissue:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cherokee&#34; stateprovince:&#34;oklahoma&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 2
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "gallinago institutioncode:OMNH" ; Times: 1
+	Query: "aspidoscelis burti" ; Times: 1
+	Query: "genus:canis catalognumber:9662 institutioncode:OMNH" ; Times: 1
+	Query: "class:amphibia county:&#34;Cherokee&#34; stateprovince:&#34;oklahoma&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 3
+	Query: "novemcinctus mappable:1 tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "astutus oklahoma" ; Times: 1
+	Query: "eastern fence lizard" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "Spinus tristis" ; Times: 2
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "genus:canis catalognumber:11346 institutioncode:OMNH" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "terrapene ornata tissue:1" ; Times: 1
+	Query: "California tiger salamander" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Sciurus aberti tissue:1" ; Times: 1
+	Query: "genus:canis institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "panthera tissue:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 512 download events in this period)
+Total number of records downloaded: 566
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Bassariscus astutus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Philodryas" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "spotted salamander" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Sciurus aberti tissue:1" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "genus:Apalone stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
