@@ -1,0 +1,86 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 285
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-01 ; Times: 4
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Oak Mountain&#34; class:amphibia" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "&#34;genomic&#34; institutioncode:OMNH" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "locality:Ruta Nacional 12 country:&#34;Argentina&#34;" ; Times: 1
+	Query: "locality:Bella Vista country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:5867 institutioncode:OMNH" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "Myotis keaysi tissue:1" ; Times: 1
+	Query: "thamnophis marcianus tissue:1" ; Times: 1
+	Query: "specificepithet:areolatus genus:Lithobates stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "tissue:1 Cophosaurus" ; Times: 1
+	Query: "Phyllotini" ; Times: 1
+	Query: "locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "order:Caudata class:Amphibia recordedby:Crump" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 230 download events in this period)
+Total number of records downloaded: 793645
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 10
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "spea bombifrons" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+
+
+End of report.
