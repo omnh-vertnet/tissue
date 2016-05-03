@@ -1,0 +1,210 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1500
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 68
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 29
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 5
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-20 ; Times: 6
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 6
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 21
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-18 ; Times: 9
+	Date: 2016-04-19 ; Times: 2
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-10 ; Times: 3
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-29 ; Times: 10
+	Date: 2016-04-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Tropidoclonium lineatum" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "neotomys ebriosus" ; Times: 1
+	Query: "specificepithet:ouachitae genus:plethodon tissue:1" ; Times: 1
+	Query: "specificepithet:annulatum genus:ambystoma" ; Times: 2
+	Query: "specificepithet:intermedia genus:siren tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "slender glass lizard" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.617516))&lt;15000" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "specificepithet:latrans genus:canis institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "longirostris year &gt;= 2010 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.447516))&lt;15000" ; Times: 1
+	Query: "pygmy rattlesnake" ; Times: 1
+	Query: "12470 tissue:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:latrans genus:canis mappable:1 tissue:1" ; Times: 3
+	Query: "family:rhinocerotidae tissue:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis country:&#34;United States&#34; tissue:1" ; Times: 3
+	Query: "musk turtle" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "red salamander" ; Times: 1
+	Query: "Desmognathus brimleyorum tissue:1" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Pantherophis guttatus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "arroyo toad" ; Times: 2
+	Query: "Alsodes gargola" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Sternotherus carinatus stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "distance(location,geopoint(32.149036,-109.617516))&lt;15000" ; Times: 1
+	Query: "specificepithet:rubecula genus:Scelorchilus" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon tissue:1" ; Times: 1
+	Query: "Chrysemys picta tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.657516))&lt;15000" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "ASPIDOSCELIS FLAGELLICAUDA" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.107516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "Lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.277516))&lt;15000" ; Times: 1
+	Query: "specificepithet:multiplicata genus:eurycea year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "county:&#34;Leflore&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-110.297516))&lt;15000" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 2
+	Query: "iguana iguana mappable:1 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "plethodon ouachita" ; Times: 3
+	Query: "guanaco" ; Times: 5
+	Query: "massasauga" ; Times: 1
+	Query: "microtus pennsylvanicus tennessee" ; Times: 1
+	Query: "Crotalus horridus year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Carphophis tissue:1" ; Times: 2
+	Query: "Scincidae sex:female institutioncode:OMNH" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "Polystictus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.447516))&lt;15000" ; Times: 1
+	Query: "odontophrynus occidentalis" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Plestiodon sex:female institutioncode:OMNH" ; Times: 1
+	Query: "genus:Napaeozapus tissue:1" ; Times: 1
+	Query: "hoogmoed" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:sequoyah genus:plethodon tissue:1" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1312 download events in this period)
+Total number of records downloaded: 6806
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 24
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-12 ; Times: 9
+	Date: 2016-04-25 ; Times: 6
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 4
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-23 ; Times: 7
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "sialia sialis" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "ASPIDOSCELIS sonorae" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Alsodes gargola" ; Times: 1
+	Query: "Lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "Tropidoclonium lineatum" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "ASPIDOSCELIS FLAGELLICAUDA" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "arroyo toad" ; Times: 1
+	Query: "Lithobates catesbeiana type:specimen" ; Times: 1
+
+
+End of report.
