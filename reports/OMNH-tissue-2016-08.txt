@@ -1,0 +1,202 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 3288
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: Bahamas ; Times: 2
+	Country: Germany ; Times: 40
+	Country: United States ; Times: 71
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-12 ; Times: 37
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-15 ; Times: 20
+	Date: 2016-08-16 ; Times: 9
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 6
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 4
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-22 ; Times: 9
+	Date: 2016-08-30 ; Times: 15
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 14
+	Date: 2016-08-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "cylindrophis tissue:1" ; Times: 31
+	Query: "34126" ; Times: 1
+	Query: "Patton 23713" ; Times: 1
+	Query: "Patton 23712" ; Times: 1
+	Query: "21820" ; Times: 1
+	Query: "prionailurus viverrinus" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "type:specimen specificepithet:virginianus genus:Colinus tissue:1" ; Times: 1
+	Query: "specificepithet:longirostris genus:Sorex tissue:1" ; Times: 2
+	Query: "lontra canadensis tissue:1" ; Times: 1
+	Query: "hyla cinerea oklahoma" ; Times: 2
+	Query: "Hippotragus zoo" ; Times: 1
+	Query: "megascops asio tissue:1" ; Times: 3
+	Query: "genus:Shinisaurus tissue:1" ; Times: 1
+	Query: "ornate box turtle" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Montgomery&#34; stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Chilabothrus" ; Times: 2
+	Query: "Plestiodon septentrionalis" ; Times: 1
+	Query: "type:specimen genus:leptotyphlops tissue:1" ; Times: 2
+	Query: "Ctenomys haigi" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 15
+	Query: "specificepithet:griseus genus:Lycalopex" ; Times: 1
+	Query: "Hippotragus niger zoo" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "specificepithet:Nuttalli genus:Ochrotomys tissue:1" ; Times: 2
+	Query: "arroyo toad" ; Times: 1
+	Query: "necromys lactens" ; Times: 1
+	Query: "chrysemys tissue:1" ; Times: 2
+	Query: "akodon albiventer" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "Myotis ruber" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Cylindrophis tissue:1" ; Times: 8
+	Query: "elgaria cochise" ; Times: 4
+	Query: "genus:Lampropeltis county:&#34;Montgomery&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Varanus tissue:1" ; Times: 1
+	Query: "chelydra tissue:1" ; Times: 2
+	Query: "Pseudemys tissue:1" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Polk&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "genus:dipodomys county:&#34;cotton&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "akodon varius" ; Times: 3
+	Query: "black-headed snake" ; Times: 2
+	Query: "oxymycterus rufus" ; Times: 1
+	Query: "lampropeltis triangulum stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Diceros zoo" ; Times: 1
+	Query: "Cylindrophis type:specimen tissue:1" ; Times: 1
+	Query: "thaptomys" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys tissue:1" ; Times: 1
+	Query: "akodon dolores" ; Times: 5
+	Query: "acanthocephala" ; Times: 1
+	Query: "N M LIZARDS" ; Times: 1
+	Query: "M-8974" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "Ambystoma tigrinum Nevada" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana" ; Times: 1
+	Query: "Hippotragus niger niger zoo" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 924 download events in this period)
+Total number of records downloaded: 3076
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 41
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 5
+	Date: 2016-08-12 ; Times: 4
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-24 ; Times: 6
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-30 ; Times: 8
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-19 ; Times: 4
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "cylindrophis tissue:1" ; Times: 2
+	Query: "specificepithet:griseus genus:Lycalopex" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "lontra canadensis tissue:1" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "class:Mammalia county:&#34;Montgomery&#34; stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "Plestiodon tissue:1" ; Times: 1
+	Query: "specificepithet:chinga genus:Conepatus" ; Times: 1
+	Query: "hyla cinerea oklahoma" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Pseudemys tissue:1" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Elgaria tissue:1" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Apodidae" ; Times: 1
+	Query: "Crotalus viridis tissue:1" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
