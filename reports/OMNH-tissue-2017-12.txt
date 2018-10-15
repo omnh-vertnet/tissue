@@ -1,0 +1,241 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 222
+Number of records retrieved in searches: 2422
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 68
+	Country: France ; Times: 6
+	Country: United States ; Times: 123
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 7
+	Date: 2017-12-31 ; Times: 10
+	Date: 2017-12-17 ; Times: 2
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 10
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-10 ; Times: 10
+	Date: 2017-12-18 ; Times: 6
+	Date: 2017-12-19 ; Times: 8
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-28 ; Times: 3
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-25 ; Times: 2
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-23 ; Times: 3
+	Date: 2017-12-22 ; Times: 3
+	Date: 2017-12-21 ; Times: 8
+	Date: 2017-12-05 ; Times: 40
+	Date: 2017-12-04 ; Times: 22
+	Date: 2017-12-07 ; Times: 18
+	Date: 2017-12-06 ; Times: 14
+	Date: 2017-12-01 ; Times: 8
+	Date: 2017-12-03 ; Times: 10
+	Date: 2017-12-02 ; Times: 8
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "california tiger salamander" ; Times: 1
+	Query: "peregrine" ; Times: 1
+	Query: "Oxymycterus" ; Times: 2
+	Query: "timber rattlesnake" ; Times: 3
+	Query: "&#34;Plethodon kiamichi&#34;" ; Times: 2
+	Query: "Plethodon kiamichi Oklahoma Le Flore" ; Times: 2
+	Query: "camelidae" ; Times: 1
+	Query: "vntype:specimen (Idaho Reptilia ) year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2000" ; Times: 4
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "Leucopsar" ; Times: 1
+	Query: "Hemibungarus calligaster calligaster" ; Times: 2
+	Query: "abrothrix andinus" ; Times: 2
+	Query: "Plethodon ouachitae x fourchensis Arkansas Polk" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "eurycea tynerensis year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "genus:Didelphis catalognumber:11452 institutioncode:OMNH" ; Times: 2
+	Query: "porzana porzana hastissue:1" ; Times: 2
+	Query: "specificepithet:andinus genus:abrothrix year &gt;= 1995" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "Eurycea tynerensis year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Myotis levis" ; Times: 12
+	Query: "genus:sigmodon stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "eurycea spelaea year &gt;= 1990 year &lt;= 2017" ; Times: 2
+	Query: "ambystoma annulatum oklahoma" ; Times: 5
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 8
+	Query: "Plestiodon egregius" ; Times: 2
+	Query: "specificepithet:keaysi genus:Myotis" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Platymantis polillensis mappable:1" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus institutioncode:OMNH" ; Times: 1
+	Query: "Hemibungarus calligaster" ; Times: 4
+	Query: "order:serpentes country:&#34;philippines&#34;" ; Times: 1
+	Query: "genus:Didelphis catalognumber:9428 institutioncode:OMNH" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "brahminy blind snake" ; Times: 1
+	Query: "(Idaho Reptilia) year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 4
+	Query: "specificepithet:carolina genus:Terrapene mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 3
+	Query: "wash family:Phrynosomatidae stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "black bear" ; Times: 9
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "class:amphibia county:&#34;Muskogee&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "American Black Bear" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "Branta canadensis vntype:specimen country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Copperhead Data" ; Times: 1
+	Query: "Canada goose hastissue:1" ; Times: 2
+	Query: "genus:Clelia mappable:1" ; Times: 1
+	Query: "specificepithet:andinus genus:abrothrix year &gt;= 2001 year &lt;= 2001" ; Times: 4
+	Query: "genus:Didelphis catalognumber:15012 institutioncode:OMNH" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "gerbil" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 3
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 10
+	Query: "Plethodon angusticlavius year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Plethodon ouachitae Oklahoma Le Flore Winding Stair" ; Times: 1
+	Query: "Ambystoma annulatum Arkansas" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "genus:Didelphis catalognumber:5400 institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "Bats" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "PLESTIODON FASCIATUS" ; Times: 1
+	Query: "Ambystoma annulatum year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 4
+	Query: "16622" ; Times: 1
+	Query: "wash family:Teiidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:sirtalis class:Reptilia county:&#34;yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "4 toed salamander" ; Times: 1
+	Query: "class:aves stateprovince:&#34;nebraska&#34; institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 14
+	Query: "Branta canadensis country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "genus:Megophrys hastissue:1" ; Times: 1
+	Query: "box turtle" ; Times: 3
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "Plethodon ouachitae Arkansas Polk" ; Times: 2
+	Query: "genus:Didelphis catalognumber:11409 institutioncode:OMNH" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 14
+	Query: "32738" ; Times: 1
+	Query: "Oxymycterus paramensis" ; Times: 10
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "&#34;Plethodon ouachitae&#34; Latimer Oklahoma" ; Times: 1
+	Query: "W. W. Brown 1914" ; Times: 1
+	Query: "Black Bear" ; Times: 5
+	Query: "specificepithet:undulatus genus:Sceloporus year &gt;= 2005 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Arkansas&#34; hastissue:1" ; Times: 1
+	Query: "Varela" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 674 download events in this period)
+Total number of records downloaded: 2368
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Unknown ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-26 ; Times: 9
+	Date: 2017-12-19 ; Times: 3
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-13 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 2
+	Query: "Virginia Rail" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "vntype:specimen (Idaho Reptilia ) year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:buteo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "plestiodon inexpectatus" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "vntype:specimen specificepithet:cognatus genus:Anaxyrus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "order:serpentes country:&#34;philippines&#34;" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+
+
+End of report.
