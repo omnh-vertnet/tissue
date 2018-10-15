@@ -1,0 +1,434 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 421
+Number of records retrieved in searches: 2990
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 67
+	Country: United States ; Times: 259
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Denmark ; Times: 8
+	Country: India ; Times: 2
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 23
+	Country: Unknown ; Times: 35
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 14
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 15
+	Date: 2018-02-01 ; Times: 58
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 11
+	Date: 2018-02-05 ; Times: 7
+	Date: 2018-02-04 ; Times: 15
+	Date: 2018-02-21 ; Times: 13
+	Date: 2018-02-20 ; Times: 18
+	Date: 2018-02-23 ; Times: 24
+	Date: 2018-02-22 ; Times: 43
+	Date: 2018-02-25 ; Times: 5
+	Date: 2018-02-24 ; Times: 7
+	Date: 2018-02-27 ; Times: 74
+	Date: 2018-02-26 ; Times: 10
+	Date: 2018-02-28 ; Times: 8
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 11
+	Date: 2018-02-16 ; Times: 10
+	Date: 2018-02-17 ; Times: 5
+	Date: 2018-02-10 ; Times: 7
+	Date: 2018-02-11 ; Times: 3
+	Date: 2018-02-12 ; Times: 9
+	Date: 2018-02-13 ; Times: 23
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:culpaeus genus:Lycalopex institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Brucepattersonius paradisus " ; Times: 1
+	Query: "rodent" ; Times: 3
+	Query: "ku 6623" ; Times: 1
+	Query: "Brahminy blind snake" ; Times: 1
+	Query: "Anser albifrons basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:flagellicauda genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "ambystoma annulatum arkansas" ; Times: 1
+	Query: "specificepithet:texensis genus:oryzomys stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "aplopeltura boa" ; Times: 3
+	Query: "Tympanoctomys barrerae " ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos institutioncode:OMNH" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "genus:ondatra stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:leucogaster genus:onychomys stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:grahamii genus:regina year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Notiosorex stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:plestiodon hassex:1" ; Times: 1
+	Query: "hemidactylus turcicus oklahoma" ; Times: 1
+	Query: "OMNH 34399" ; Times: 2
+	Query: "Aspidoscelis flagellicauda" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive) institutioncode:OMNH" ; Times: 1
+	Query: "harbor seal" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:OMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:griseus genus:Lycalopex institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "plestiodon fasciatus" ; Times: 1
+	Query: "catalognumber:10050 &#34;peromyscus leucopus&#34;" ; Times: 1
+	Query: "oxyrhabdium" ; Times: 1
+	Query: "&#34;Rana catesbeiana&#34; OR &#34;Lithobates catesbeianus&#34; hastissue:1" ; Times: 12
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Cervus nippon" ; Times: 22
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 4
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995" ; Times: 2
+	Query: "Reptilia Oklahoma lincoln" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Lasiurus blossevillii vntype:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:uniparens genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "turcicus" ; Times: 1
+	Query: "genus:procyon stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "platyurus hastissue:1" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 2000" ; Times: 2
+	Query: "genus:taxidea stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "poison dart frog" ; Times: 1
+	Query: "Hemidactylus turcicus mappable:1" ; Times: 1
+	Query: "Bucephala albeola basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "nectomys squamipes" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis county:&#34;grant&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:ochrotomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "Dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "aspidoscelis burti" ; Times: 5
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 5
+	Query: "Pseudacris clarkii" ; Times: 3
+	Query: "&#34;Glyptemys insculpta&#34; hastissue:1" ; Times: 2
+	Query: "Aspidoscelis arizonae" ; Times: 2
+	Query: "genus:ursus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:ochrotomys stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:egregius genus:plestiodon hassex:1" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995 institutioncode:OMNH" ; Times: 1
+	Query: "Branta canadensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 2
+	Query: "Pseudacris maculata year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "specificepithet:aberti genus:Sciurus hastissue:1" ; Times: 1
+	Query: "aspidoscelis arizonae" ; Times: 2
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "specificepithet:sonorae genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:merriami genus:perognathus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Aythya valisineria basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "specificepithet:gularis genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:vison genus:neovison stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "Sturnira erythromos" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes institutioncode:OMNH" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "distance(location,geopoint(34.1738458175001,-96.6470341709999))&lt;8152" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "vntype:specimen specificepithet:culpaeus genus:Lycalopex" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:fulvescens genus:reithrodontomys stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "mediterranean house gecko" ; Times: 1
+	Query: "Pseudemys concinna mappable:1" ; Times: 8
+	Query: "specificepithet:thous genus:Cerdocyon institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "snapping turtle" ; Times: 2
+	Query: "gonyosoma oxycephalum" ; Times: 1
+	Query: "african toad" ; Times: 1
+	Query: "genus:lontra stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:pinetorum genus:microtus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "Aythya collaris basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Oxyura vittata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:nerodia hassex:1" ; Times: 1
+	Query: "genus:Coluber year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "OMNH 34497" ; Times: 1
+	Query: "genus:cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua country:&#34;Gabon&#34;" ; Times: 1
+	Query: "genus:Ophisaurus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:volans genus:glaucomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:obsoletus genus:plestiodon hassex:1" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua country:&#34;GABON&#34;" ; Times: 1
+	Query: "Dolichotis salinicola" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Peromyscus attwateri" ; Times: 2
+	Query: "specificepithet:laticeps genus:plestiodon hassex:1" ; Times: 1
+	Query: "plestiodon septentrionalis" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:3071 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:spilosoma stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (pan)" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "Platymantis dorsalis OMNH" ; Times: 1
+	Query: "specificepithet:texensis genus:oryzomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "California tiger salamander" ; Times: 5
+	Query: "Brucepattersonius misionensis " ; Times: 1
+	Query: "Pseudacris clarkii year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 2
+	Query: "oklahoma porcupine" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Akodon aliquantulus " ; Times: 1
+	Query: "locality:chattanooga stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Nycticeius stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Delomys dorsalis " ; Times: 1
+	Query: "Thylamys elegans" ; Times: 2
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon institutioncode:OMNH" ; Times: 1
+	Query: "Microcavia shiptoni " ; Times: 1
+	Query: "genus:neotoma county:&#34;cotton&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:OMNH:OCGR:13565&#34;" ; Times: 4
+	Query: "genus:castor stateprovince:&#34;oklahoma&#34;" ; Times: 10
+	Query: "85180" ; Times: 1
+	Query: "northern pike hastissue:1" ; Times: 2
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:OMNH hastissue:1" ; Times: 2
+	Query: "hemidactylus turcicus United States" ; Times: 1
+	Query: "genus:bassariscus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; Aspidoscelis burti" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "genus:mephitis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:mutica genus:apalone hassex:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Arthroleptis country:&#34;Gabon&#34;" ; Times: 1
+	Query: "theloderma" ; Times: 1
+	Query: "Lophodytes cucullatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catenatus" ; Times: 2
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "specificepithet:megalotis genus:reithrodontomys stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:plestiodon hassex:1" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 22
+	Query: "Salinomys delicatus " ; Times: 1
+	Query: "scientificname:&#34;eumops patagonicus&#34;" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "vntype:specimen specificepithet:griseus genus:Lycalopex" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "specificepithet:tridecemlineatus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Brucepattersonius guarani " ; Times: 1
+	Query: "Mountain skink" ; Times: 2
+	Query: "specificepithet:attwateri genus:peromyscus stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "genus:erethizon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "&#34;wood turtle&#34; hastissue:1" ; Times: 1
+	Query: "Eumops patagonicus " ; Times: 1
+	Query: "genus:cemophora hassex:1" ; Times: 1
+	Query: "Board class:Reptilia country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "specificepithet:audubonii genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:africanus genus:Phrynobatrachus country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Reptilia New Mexico guadalupe vaughn" ; Times: 2
+	Query: "genus:dasypus county:&#34;cleveland&#34;" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "genus:Tropidoclonion hassex:1" ; Times: 1
+	Query: "&#34;insculpta&#34; hastissue:1" ; Times: 34
+	Query: "genus:baiomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "aspidoscelis flagellicauda" ; Times: 2
+	Query: "scientificname:&#34;platymantis polillensis&#34;" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 7
+	Query: "specificepithet:ochrogaster genus:microtus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Agkistrodon Oklahoma cleveland" ; Times: 2
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 21
+	Query: "specificepithet:egregius family:Scincidae stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 129 (out of 1892 download events in this period)
+Total number of records downloaded: 5693
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 117
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-03 ; Times: 4
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 58
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 3
+	Date: 2018-02-05 ; Times: 11
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-20 ; Times: 7
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-24 ; Times: 4
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-10 ; Times: 5
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Abrothrix longipilis" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "tremarctos" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "ambystoma annulatum arkansas" ; Times: 2
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "specificepithet:sonorae genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Loxodontomys micropus" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "specificepithet:pinetorum genus:microtus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Akodon azarae" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:flagellicauda genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 3
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Sturnira erythromos" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:attwateri genus:peromyscus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Rhacophorus hastissue:1" ; Times: 1
+	Query: "Dolichotis salinicola" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "specificepithet:uniparens genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+
+
+End of report.
