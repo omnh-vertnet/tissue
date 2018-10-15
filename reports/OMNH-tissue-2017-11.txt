@@ -1,0 +1,95 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 330
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: South Africa ; Times: 3
+	Country: France ; Times: 4
+	Country: United States ; Times: 29
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 7
+	Date: 2017-11-29 ; Times: 11
+	Date: 2017-11-26 ; Times: 14
+	Date: 2017-11-27 ; Times: 9
+	Date: 2017-11-25 ; Times: 8
+	Date: 2017-11-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "35377" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 9
+	Query: "45176" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "(marmorata) year &gt;= 1992 month &gt;= 8" ; Times: 1
+	Query: "genus:Crotalus recordnumber:580" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2017 haslifestage:1" ; Times: 1
+	Query: "Eastern work snake" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus mappable:1" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 2
+	Query: "Shinisaurus" ; Times: 2
+	Query: "asian elephant" ; Times: 1
+	Query: "specificepithet:canadensis genus:branta hastissue:1" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus class:mammalia mappable:1" ; Times: 1
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2017 haslifestage:1" ; Times: 1
+	Query: "woodworth j m" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus mappable:1 hastissue:1" ; Times: 1
+	Query: "plestiodon fasciatus" ; Times: 1
+	Query: "genus:Ophisaurus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "akodon budini" ; Times: 2
+	Query: "California tiger salamander" ; Times: 1
+	Query: "collared lizard" ; Times: 1
+	Query: "suricata" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis mappable:1 hastissue:1" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Cyclocorus" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 9
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "17013 tissue" ; Times: 1
+	Query: "specificepithet:brimleyorum genus:Desmognathus stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "Red-eyed Vireo sex:male" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1101 download events in this period)
+Total number of records downloaded: 975
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 1
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 3
+	Date: 2017-11-25 ; Times: 2
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brimleyorum genus:Desmognathus stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
