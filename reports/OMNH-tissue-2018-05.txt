@@ -1,0 +1,357 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 352
+Number of records retrieved in searches: 5559
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 16
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Namibia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 288
+	Country: Spain ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 22
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 65
+	Date: 2018-05-24 ; Times: 36
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-06 ; Times: 7
+	Date: 2018-05-07 ; Times: 24
+	Date: 2018-05-04 ; Times: 16
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 9
+	Date: 2018-05-01 ; Times: 13
+	Date: 2018-05-08 ; Times: 12
+	Date: 2018-05-09 ; Times: 16
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 15
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 9
+	Date: 2018-05-17 ; Times: 8
+	Date: 2018-05-16 ; Times: 31
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 22
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 4
+	Date: 2018-05-18 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "Calotes hastissue:1 captive" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 2
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "delomys" ; Times: 2
+	Query: "Ambystoma annulatum" ; Times: 6
+	Query: "specificepithet:conjuncta genus:Kaloula institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Megophrys stejnegeri OMNH" ; Times: 2
+	Query: "omnh philippines albotuberculata" ; Times: 1
+	Query: "specificepithet:ouachitae genus:plethodon year &gt;= 1980" ; Times: 1
+	Query: "OMNH 6111" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:OMNH" ; Times: 3
+	Query: "Microtus ochrogaster year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "specificepithet:africanus genus:Phrynobatrachus institutioncode:OMNH" ; Times: 3
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Pinoyscincus llanosi OMNH" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "omnh lipinia" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "hastissue:1 white-breasted nuthatch" ; Times: 1
+	Query: "adams specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Coluber constrictor hastissue:1" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "ku 14146" ; Times: 1
+	Query: "specificepithet:philippinicus genus:Cyrtodactylus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "specificepithet:spelaea genus:eurycea year &gt;= 1970" ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:deirochelys stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Odontophrynus institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "song sparrow vntype:specimen year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "porzana porzana vntype:specimen hastissue:1" ; Times: 1
+	Query: "ku 14164" ; Times: 1
+	Query: "pantherophis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;cherry&#34; stateprovince:&#34;nebraska&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "SS 822" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Arthroleptis institutioncode:OMNH" ; Times: 4
+	Query: "genus:hyla family:hylidae order:anura class:amphibia county:&#34;Rogers&#34; stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "OMNH sphenomorphus jagori" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:magnus genus:Limnonectes institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:quadridigitata genus:eurycea stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "homonota darwinii" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:caddoensis genus:plethodon county:&#34;polk&#34; year &gt;= 1985" ; Times: 1
+	Query: "Xenopus epitropicalis hassex:1" ; Times: 3
+	Query: "KU 5932" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta mappable:1 year&gt;=2000" ; Times: 1
+	Query: "chaetophractus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "Megophrys OMNH" ; Times: 1
+	Query: "kweichowensis" ; Times: 1
+	Query: "Alsodes gargola" ; Times: 1
+	Query: "family:Gekkonidae country:&#34;Philippines&#34;" ; Times: 1
+	Query: "spadefoot toad montana" ; Times: 1
+	Query: "genus:Alsodes specificepithet:gargola" ; Times: 1
+	Query: "Microtus pinetorum year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:sequoyah genus:plethodon" ; Times: 2
+	Query: "Phymaturus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "pulchrana grandocula OMNH" ; Times: 1
+	Query: "specificepithet:fourchensis genus:plethodon year &gt;= 1980" ; Times: 2
+	Query: "specificepithet:kiamichi genus:plethodon year &gt;= 1980" ; Times: 1
+	Query: "AK13485" ; Times: 1
+	Query: "Hemidactylium Arkansas" ; Times: 3
+	Query: "Hypsiglena hastissue:1 year &gt; 2000" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:solitaria genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus institutioncode:OMNH" ; Times: 4
+	Query: "OMNH Philippines" ; Times: 3
+	Query: "OMNH Pinoyscincus jagori" ; Times: 2
+	Query: "Pinoyscincus abdictus OMNH" ; Times: 1
+	Query: "Cemophora oklahoma" ; Times: 4
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "class:Mammalia locality:Chattanooga stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "OMNH sphenomorphus" ; Times: 1
+	Query: "Boreal Chorus frog" ; Times: 1
+	Query: "OMNH 6111 hastissue:1" ; Times: 1
+	Query: "regina grahamii" ; Times: 2
+	Query: "Limnonectes magnus" ; Times: 3
+	Query: "specificepithet:caddoensis genus:plethodon year &gt;= 1985" ; Times: 1
+	Query: "family:plethodontidae county:&#34;polk&#34; stateprovince:&#34;arkansas&#34; month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "heterodon OMNH 4995" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 2
+	Query: "specificepithet:pleurostigma genus:Kalophrynus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;oklahoma&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Reptilia Oklahoma canadian" ; Times: 3
+	Query: "Copperhead Data" ; Times: 3
+	Query: "omnh 6111" ; Times: 2
+	Query: "AL 3054" ; Times: 1
+	Query: "Myotis chiloensis" ; Times: 5
+	Query: "KU 14269" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "OMNH 45364" ; Times: 2
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;=2000" ; Times: 2
+	Query: "bats" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "family:plethodontidae county:&#34;polk&#34; stateprovince:&#34;arkansas&#34; month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:collaris genus:Crotaphytus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Tylototriton kweichowensis" ; Times: 1
+	Query: "heterodon OMNH 15380" ; Times: 1
+	Query: "Sanguirana luzonensis hassex:1" ; Times: 3
+	Query: "chinchilla" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:spekii genus:Kinixys" ; Times: 9
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:caddoensis genus:plethodon" ; Times: 1
+	Query: "specificepithet:epitropicalis genus:Xenopus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Aythya collaris hastissue:1 year&gt;2005" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:OMNH" ; Times: 3
+	Query: "family:plethodontidae county:&#34;polk&#34; stateprovince:&#34;arkansas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "OMNH lipinia" ; Times: 1
+	Query: "oklahoma cemophora" ; Times: 2
+	Query: "OMNH Myotis keaysi" ; Times: 1
+	Query: "armadillo" ; Times: 2
+	Query: "black-headed snake" ; Times: 2
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amnirana albolabris" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Sanguirana luzonensis" ; Times: 3
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua institutioncode:OMNH" ; Times: 3
+	Query: "Kaloula conjuncta hassex:1" ; Times: 3
+	Query: "brucepattersonius" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 1
+	Query: "OMNH 16504" ; Times: 2
+	Query: "Pinoyscincus jagori OMNH" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Agkistrodon hastissue:1" ; Times: 17
+	Query: "specificepithet:multiplicata genus:eurycea stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Beaver&#34; stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "OMNH Pinoyscincus" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "heterodon OMNH 4996" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:OMNH" ; Times: 3
+	Query: "locality:Chattanooga stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Pinoyscincus OMNH" ; Times: 3
+	Query: "Odontophrynus occidentalis" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "Sistrurus hastissue:1" ; Times: 14
+	Query: "Euphractus sexcinctus" ; Times: 4
+	Query: "omnh philippines" ; Times: 7
+	Query: "Coluber constrictor hastissue:1 year&gt;2005" ; Times: 1
+	Query: "specificepithet:multiplicata genus:eurycea stateprovince:&#34;arkansas&#34; year &gt;= 1960" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:fourchensis genus:plethodon" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates mappable:1 year&gt;=2000" ; Times: 2
+	Query: "heterodon OMNH" ; Times: 2
+	Query: "Myotis chiloensis OMNH" ; Times: 1
+	Query: "omnh cyrtodactylus sumuroi" ; Times: 1
+	Query: "specificepithet:luzonensis genus:Sanguirana institutioncode:OMNH" ; Times: 3
+	Query: "Hemidactylium Missouri" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:kiamichi genus:plethodon" ; Times: 1
+	Query: "eastern massasauga" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Aythya collaris hastissue:1" ; Times: 2
+	Query: "specificepithet:gabonicus genus:Scotobleps institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:virginianus genus:Colinus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "family:hylidae county:&#34;pima&#34;" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "specificepithet:gargola genus:Alsodes institutioncode:OMNH" ; Times: 4
+	Query: "Staurois OMNH" ; Times: 2
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 8
+	Query: "Zaedyus pichiy" ; Times: 6
+	Query: "genus:Echinotriton specificepithet:andersoni" ; Times: 1
+	Query: "hastissue:1 myotis septentrionalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1178 download events in this period)
+Total number of records downloaded: 2589
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Spain ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 8
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 5
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 7
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-19 ; Times: 7
+	Date: 2018-05-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon sequoyah" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "genus:aspidoscelis sex:male OR female" ; Times: 3
+	Query: "delomys" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 2
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Eurycea spelaea" ; Times: 1
+	Query: "specificepithet:varia genus:strix hastissue:1" ; Times: 1
+	Query: "genus:sonora sex:male OR female" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+	Query: "Boa constrictor" ; Times: 1
+	Query: "L. catesbeianus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "genus:crotalus" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 1
+	Query: "agkistrodon" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "hastissue:1 white-breasted nuthatch" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "ophiophagus Hannah" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "genus:pseudemys sex:male OR female" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
