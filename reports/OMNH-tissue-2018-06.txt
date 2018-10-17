@@ -1,0 +1,263 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 678
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 115
+	Country: Australia ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: China ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Nicaragua ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 27
+	Date: 2018-06-06 ; Times: 12
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-04 ; Times: 9
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-20 ; Times: 6
+	Date: 2018-06-23 ; Times: 5
+	Date: 2018-06-08 ; Times: 7
+	Date: 2018-06-22 ; Times: 6
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 11
+	Date: 2018-06-13 ; Times: 7
+	Date: 2018-06-14 ; Times: 6
+	Date: 2018-06-15 ; Times: 7
+	Date: 2018-06-17 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 8
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-28 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "california tiger salamander" ; Times: 1
+	Query: "Aspidoscelis hastissue=1 year&gt;1995" ; Times: 1
+	Query: "Screech owl hastissue:1" ; Times: 2
+	Query: "genus:euphractus" ; Times: 2
+	Query: "specificepithet:cockrumi genus:notiosorex" ; Times: 2
+	Query: "family:Lemuridae institutioncode:OMNH" ; Times: 8
+	Query: "odontophrynus" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "ku 14038" ; Times: 2
+	Query: "Plestiodon septentrionalis" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Bothriechis hastissue:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "Platymantis bayani" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "specificepithet:sphenocephalus genus:Lithobates stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "vntype:specimen genus:euphractus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "Missouri Reptilia" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 5
+	Query: "specificepithet:kalingensis genus:Kaloula" ; Times: 6
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "poison dart frog" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "distance(location,geopoint(38.1567853884565,-90.3365891312889))&lt;12917" ; Times: 1
+	Query: "KU 5932" ; Times: 2
+	Query: "stegonotus muelleri" ; Times: 1
+	Query: "KU 5937" ; Times: 3
+	Query: "vampire" ; Times: 5
+	Query: "Alsodes gargola" ; Times: 4
+	Query: "specificepithet:triangulum genus:Lampropeltis hastissue:1" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "black bear" ; Times: 6
+	Query: "Kinixys spekii" ; Times: 3
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "meerkat" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "Tropiduridae hastissue=1 year&gt;1995" ; Times: 3
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "bobcat" ; Times: 6
+	Query: "Omnh glaucomys volans" ; Times: 1
+	Query: "Tylototriton kweichowensis" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "distance(location,geopoint(38.3077605964849,-90.3488216489505))&lt;13734" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "diamondback" ; Times: 1
+	Query: "porch" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Amnirana albolabris" ; Times: 1
+	Query: "gray tree frog" ; Times: 1
+	Query: "California tiger salamander" ; Times: 2
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 2
+	Query: "Bobcat" ; Times: 2
+	Query: "Aspidoscelis hastissue=1 year&gt;2000" ; Times: 1
+	Query: "Aspidoscelis hastissue=1 year&gt;2005" ; Times: 1
+	Query: "Box turtle" ; Times: 1
+	Query: "Rhinella" ; Times: 1
+	Query: "aspidelaps" ; Times: 1
+	Query: "OMNH 23496" ; Times: 2
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "dipsadidae" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "Reptilia Marshall County West Virginia" ; Times: 1
+	Query: "fejervarya vittigera" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "rubber boa" ; Times: 2
+	Query: "Black Bear" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "specificepithet:tigris class:Reptilia county:&#34;cochise&#34;" ; Times: 2
+	Query: "prairie rat hastissue:1" ; Times: 1
+	Query: "Catenatus oklahoma" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 110 (out of 1169 download events in this period)
+Total number of records downloaded: 3834
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 85
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 16
+	Date: 2018-06-05 ; Times: 15
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-07 ; Times: 31
+	Date: 2018-06-06 ; Times: 20
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 8
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "American bullfrog" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "gray wolf" ; Times: 2
+	Query: "spotted salamander" ; Times: 5
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "poison dart frog" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "panda" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "Plestiodon septentrionalis" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Amphibia SALAMANDER" ; Times: 1
+	Query: "Spotted Salamander" ; Times: 2
+	Query: "Tylototriton kweichowensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "plestiodon inexpectatus" ; Times: 1
+	Query: "pickerel frog" ; Times: 1
+	Query: "newt" ; Times: 3
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "California tiger salamander" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "pond turtle" ; Times: 1
+	Query: "stegonotus muelleri" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "American Bullfrog" ; Times: 1
+	Query: "order:Caudata lifestage:egg" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "The Eastern Gray Squirrel" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "class:Reptilia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "prairie rat hastissue:1" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "salamander oregon" ; Times: 2
+	Query: "meerkat" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+
+
+End of report.
