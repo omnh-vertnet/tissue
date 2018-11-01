@@ -1,0 +1,377 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 401
+Number of records retrieved in searches: 4014
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 5
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 6
+	Country: India ; Times: 2
+	Country: Peru ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 21
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 333
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 22
+	Date: 2018-10-04 ; Times: 76
+	Date: 2018-10-23 ; Times: 7
+	Date: 2018-10-01 ; Times: 25
+	Date: 2018-10-02 ; Times: 3
+	Date: 2018-10-03 ; Times: 21
+	Date: 2018-10-30 ; Times: 8
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-05 ; Times: 11
+	Date: 2018-10-06 ; Times: 1
+	Date: 2018-10-07 ; Times: 3
+	Date: 2018-10-26 ; Times: 21
+	Date: 2018-10-27 ; Times: 7
+	Date: 2018-10-24 ; Times: 11
+	Date: 2018-10-25 ; Times: 8
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 40
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 9
+	Date: 2018-10-18 ; Times: 8
+	Date: 2018-10-13 ; Times: 3
+	Date: 2018-10-12 ; Times: 36
+	Date: 2018-10-11 ; Times: 19
+	Date: 2018-10-10 ; Times: 14
+	Date: 2018-10-17 ; Times: 6
+	Date: 2018-10-16 ; Times: 17
+	Date: 2018-10-15 ; Times: 13
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:shiptoni genus:Microcavia" ; Times: 2
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "specificepithet:catenatus genus:sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "vampire" ; Times: 6
+	Query: "mountain chorus frog" ; Times: 1
+	Query: "ak13200 country:&#34;argentina&#34;" ; Times: 1
+	Query: "brown-headed cowbird year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 5
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "specificepithet:venustus genus:Calomys" ; Times: 2
+	Query: "catalognumber:9690 hastissue:1" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "class:reptilia continent:North America institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "specificepithet:cinerea genus:Abrocoma" ; Times: 2
+	Query: "genus:Scalopus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "regina grahamii" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 2
+	Query: "genus:Carphophis hastissue:1" ; Times: 1
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 12
+	Query: "specificepithet:mimax genus:Octomys" ; Times: 4
+	Query: "western spadefoot" ; Times: 1
+	Query: "leopard cat" ; Times: 1
+	Query: "catalognumber:14832 institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:crassipes genus:Conraua year &gt;= 1990" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:paramensis genus:Oxymycterus" ; Times: 1
+	Query: "specificepithet:iniscatus genus:Akodon" ; Times: 2
+	Query: "specificepithet:Carolina genus:Terrapene hastissue:1" ; Times: 1
+	Query: "specificepithet:sexlineata genus:Aspidoscelis year = 2005" ; Times: 1
+	Query: "abrocoma cinerea" ; Times: 2
+	Query: "harbor seal" ; Times: 1
+	Query: "ak13150 country:&#34;argentina&#34;" ; Times: 1
+	Query: "Astylosternus batesi mappable:1" ; Times: 1
+	Query: "Spectacled bear" ; Times: 1
+	Query: "specificepithet:leporina genus:Dasyprocta" ; Times: 2
+	Query: "sciurus pucheranii" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Leptopelis millsoni mappable:1" ; Times: 5
+	Query: "OMNH platymantis dorsalis 45009" ; Times: 1
+	Query: "specificepithet:maulinus genus:Ctenomys" ; Times: 8
+	Query: "OMNH platymantis dorsalis 45007" ; Times: 1
+	Query: "northern prairie skink" ; Times: 2
+	Query: "Lycalopex culpaeus" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "specificepithet:caenosus genus:Akodon" ; Times: 2
+	Query: "specificepithet:nigrita genus:Thaptomys" ; Times: 1
+	Query: "specificepithet:aberti genus:Sciurus" ; Times: 1
+	Query: "specificepithet:aureus genus:Pipanacoctomys" ; Times: 4
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "class:amphibia continent:North America institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:maximus genus:Lagostomus" ; Times: 1
+	Query: "genus:Brucepattersonius" ; Times: 1
+	Query: "specificepithet:fasciata genus:nerodia stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:phyllotis country:&#34;argentina&#34; year &gt;= 1988 year &lt;= 1990" ; Times: 2
+	Query: "vntype:specimen family:Apodidae hastissue:1" ; Times: 2
+	Query: "lycalopex culpaeus" ; Times: 2
+	Query: "Chinchilla" ; Times: 1
+	Query: "ak13170 country:&#34;argentina&#34;" ; Times: 1
+	Query: "genus:cratogeomys institutioncode:OMNH" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 6
+	Query: "vntype:specimen specificepithet:leo genus:panthera hastissue:1" ; Times: 1
+	Query: "specificepithet:debilis genus:Anaxyrus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "regina grahamii year &gt;= 1971" ; Times: 1
+	Query: "specificepithet:cristata genus:Hystrix" ; Times: 4
+	Query: "OMNH platymantis dorsalis 45019" ; Times: 1
+	Query: "Leptopelis aubryi mappable:1" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45017" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45010" ; Times: 1
+	Query: "specificepithet:leucoblephara genus:Galea" ; Times: 2
+	Query: "specificepithet:gliroides genus:Octodontomys" ; Times: 8
+	Query: "monitor lizard" ; Times: 2
+	Query: "catalognumber:9666 hastissue:1" ; Times: 1
+	Query: "specificepithet:delicatus genus:Salinomys" ; Times: 8
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Myotis riparius" ; Times: 5
+	Query: "genus:lasionycteris stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "oklahoma triangulum" ; Times: 4
+	Query: "ak13180 country:&#34;argentina&#34;" ; Times: 1
+	Query: "specificepithet:moreni genus:Eligmodontia" ; Times: 8
+	Query: "lycalopex griseus" ; Times: 3
+	Query: "big brown bat" ; Times: 2
+	Query: "catalognumber:9630 hastissue:1" ; Times: 1
+	Query: "OMNH platymantis dorsalis" ; Times: 1
+	Query: "Lithobates catesbianus" ; Times: 1
+	Query: "OMNH platymantis dorsalis 45020" ; Times: 1
+	Query: "sturnella magna hastissue:1" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "erethizon vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Aspidoscelis country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Sturnira erythromos" ; Times: 4
+	Query: "specificepithet:tschudii genus:Cavia" ; Times: 2
+	Query: "dasypus novemcinctus year &gt;= 1971" ; Times: 1
+	Query: "Maria Aurora Philippines Reptilia" ; Times: 1
+	Query: "specificepithet:sexlineata genus:Aspidoscelis year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "OMNH 45011" ; Times: 1
+	Query: "OMNH 45012" ; Times: 1
+	Query: "specificepithet:austrinus genus:Rhipidomys" ; Times: 1
+	Query: "catalognumber:1496 hastissue:1" ; Times: 1
+	Query: "genus:Baeolophus class:Aves stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "bats" ; Times: 2
+	Query: "ocelot" ; Times: 2
+	Query: "specificepithet:guarani genus:Brucepattersonius" ; Times: 3
+	Query: "family:apodidae hastissue:1" ; Times: 3
+	Query: "black-crested titmouse" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis stateprovince:&#34;Oklahoma&#34; year &gt;= 2006 year &lt;= 2019" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34; year &gt;= 2006 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:barrerae genus:Tympanoctomys" ; Times: 4
+	Query: "specificepithet:opimus genus:Ctenomys" ; Times: 1
+	Query: "specificepithet:boliviae genus:Calomys" ; Times: 2
+	Query: "Akodon toba" ; Times: 6
+	Query: "ak13144 country:&#34;argentina&#34;" ; Times: 1
+	Query: "specificepithet:rigida genus:regina stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "glaucomys volans" ; Times: 2
+	Query: "oklahoma lampropeltis triangulum" ; Times: 1
+	Query: "dendrelaphis caudolineatus" ; Times: 2
+	Query: "catalognumber:2599 institutioncode:OMNH" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Maria Aurora Philippines Amphibia" ; Times: 1
+	Query: "OMNH 45003" ; Times: 1
+	Query: "1700 country:&#34;argentina&#34; year &gt;= 1990 year &lt;= 1990 hastissue:1" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon stateprovince:&#34;oklahoma&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "specificepithet:paradisus genus:Brucepattersonius" ; Times: 4
+	Query: "OMNH 45008" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "1700 country:&#34;argentina&#34; year &gt;= 1990 year &lt;= 1990 institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Oklahoma&#34; hastissue:1" ; Times: 2
+	Query: "Trimeresurus flavomaculatus" ; Times: 2
+	Query: "ak13144" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys" ; Times: 1
+	Query: "specificepithet:tarsalis genus:Irenomys" ; Times: 8
+	Query: "myotis keaysi" ; Times: 1
+	Query: "vntype:specimen genus:panthera hastissue:1" ; Times: 1
+	Query: "genus:Conraua hastissue:1" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 2
+	Query: "specificepithet:Egregius genus:Plestiodon stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "ak13160 country:&#34;argentina&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Oxymycterus" ; Times: 1
+	Query: "specificepithet:morgani genus:Eligmodontia" ; Times: 8
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 5
+	Query: "OMNH 45006" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 3
+	Query: "Notosciurus pucheranii" ; Times: 1
+	Query: "specificepithet:fochi genus:Ctenomys" ; Times: 8
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "genus:Conraua year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "catalognumber:14833 institutioncode:OMNH" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "specificepithet:quaestor genus:Oxymycterus" ; Times: 8
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:puerulus genus:Eligmodontia" ; Times: 1
+	Query: "catalognumber:14804 institutioncode:OMNH" ; Times: 1
+	Query: "chinchilla mammalia" ; Times: 1
+	Query: "wood turtle" ; Times: 1
+	Query: "specificepithet:pontifex genus:Ctenomys" ; Times: 8
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:bolsonensis genus:Eligmodontia" ; Times: 8
+	Query: "17776" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "specificepithet:australis genus:Microcavia" ; Times: 2
+	Query: "specificepithet:budini genus:Akodon" ; Times: 2
+	Query: "specificepithet:legatus genus:Euryoryzomys" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 10
+	Query: "genus:Molossops family:Molossidae" ; Times: 1
+	Query: "specificepithet:typus genus:Eligmodontia" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34; year &gt;= 2006 year &lt;= 2019 institutioncode:OMNH" ; Times: 1
+	Query: "prionailurus viverrinus" ; Times: 1
+	Query: "genus:Pandion stateprovince:&#34;Oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "Rubber Boa" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "family:Chelydridae stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza hastissue:1" ; Times: 1
+	Query: "AK14897" ; Times: 1
+	Query: "ak13670 country:&#34;argentina&#34;" ; Times: 1
+	Query: "specificepithet:misionensis genus:Brucepattersonius" ; Times: 3
+	Query: "Urocyon cinereoargenteus year &gt;= 1970" ; Times: 2
+	Query: "specificepithet:viscacia genus:Lagidium" ; Times: 1
+	Query: "Maria Aurora Philippines" ; Times: 1
+	Query: "specificepithet:dolores genus:Akodon" ; Times: 2
+	Query: "chicken turtle" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Maria Aurora" ; Times: 1
+	Query: "catalognumber:9663 hastissue:1" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1300 download events in this period)
+Total number of records downloaded: 15774
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: France ; Times: 1
+	Country: United States ; Times: 53
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 4
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-23 ; Times: 4
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-22 ; Times: 6
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-25 ; Times: 6
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 7
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 4
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 3
+	Date: 2018-10-15 ; Times: 8
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Perimyotis subflavus genus:Perimyotis" ; Times: 1
+	Query: "Diadophis punctatus" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "class:amphibia continent:North America institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Felidae" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "specificepithet:fasciata genus:nerodia stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "peromyscus maniculatus &#34;lactating&#34;" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Bothriechis" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Philautus" ; Times: 1
+	Query: "class:reptilia continent:North America institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "Akodon toba" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "heterodon platirhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "specificepithet:debilis genus:Anaxyrus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Aspidoscelis gularis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Myotis septentrionalis genus:myotis" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Corynorhinus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Tamias OR Neotamias OR Eutamias" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "Dromiciops" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "notiosorex crawfordi" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
