@@ -1,0 +1,249 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 964
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Tanzania ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 102
+	Country: China ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 14
+	Country: Philippines ; Times: 5
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-09 ; Times: 8
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-19 ; Times: 7
+	Date: 2018-12-18 ; Times: 4
+	Date: 2018-12-29 ; Times: 14
+	Date: 2018-12-15 ; Times: 4
+	Date: 2018-12-14 ; Times: 15
+	Date: 2018-12-17 ; Times: 5
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-13 ; Times: 6
+	Date: 2018-12-12 ; Times: 3
+	Date: 2018-12-20 ; Times: 6
+	Date: 2018-12-22 ; Times: 6
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-07 ; Times: 9
+	Date: 2018-12-04 ; Times: 13
+	Date: 2018-12-05 ; Times: 10
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 16
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma annulatum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "california tiger salamander" ; Times: 1
+	Query: "copperhead" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "33307" ; Times: 2
+	Query: "otosaurus cumingi" ; Times: 1
+	Query: "rhacophorus bimaculatus" ; Times: 1
+	Query: "Viridovipera" ; Times: 1
+	Query: "Procyon lotor hastissue:1" ; Times: 4
+	Query: "Japalura splendida" ; Times: 1
+	Query: "vntype:specimen genus:Dusicyon family:Canidae AND (NOT rufus) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phrynobatrachus sp." ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "viridovipera" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Poecile year = 2016" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Red backed salamander" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "genus:Ambystoma maculatum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Rhacophorus pardalis" ; Times: 1
+	Query: "Trimeresurus venustus" ; Times: 1
+	Query: "Trimeresurus sumatranus" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 6
+	Query: "timber rattlesnake" ; Times: 3
+	Query: "Hydrosaurus vntype:specimen" ; Times: 7
+	Query: "genus:Anaxyrus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Panthera leo vntype:specimen hastissue:1" ; Times: 1
+	Query: "red fox tissue" ; Times: 1
+	Query: "parvoscincus leucospilos" ; Times: 1
+	Query: "Alligator oklahoma" ; Times: 2
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "KU 14164" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 5
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes family:Canidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thylamys pusillus" ; Times: 14
+	Query: "Eastern massasauga" ; Times: 1
+	Query: "specificepithet:hylophaga genus:Blarina hastissue:1" ; Times: 1
+	Query: "specificepithet:undulatus genus:sceloporus stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "(vulpes vulpes OR red fox) hastissue:1" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Cryptothylax hastissue:1" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Rigida oklahoma" ; Times: 2
+	Query: "Megophrys stejnegeri" ; Times: 1
+	Query: "otosaurus cumingi ku" ; Times: 1
+	Query: "Mephitis mephitis hastissue:1" ; Times: 1
+	Query: "Deirochelys oklahoma" ; Times: 4
+	Query: "Chrotopterus auritus" ; Times: 2
+	Query: "Timber rattlesnake" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "genus:Eurycea lucifuga stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ambystoma texanum vntype:specimen hastissue:1" ; Times: 2
+	Query: "otosaurus cumingi omnh" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "tropidolaemus" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Blarina hastissue:1" ; Times: 2
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 8
+	Query: "Eutropis multicarinata" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus" ; Times: 1
+	Query: "calomys sorellus" ; Times: 1
+	Query: "gray tree frog" ; Times: 2
+	Query: "genus:phalacrocorax institutioncode:OMNH" ; Times: 1
+	Query: "massasauga" ; Times: 1
+	Query: "Atelognathus hastissue:1" ; Times: 1
+	Query: "Rhacophorus bimaculatus" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Plestiodon egregius year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "hastissue:1 Agkistrodon contortrix" ; Times: 2
+	Query: "13139" ; Times: 1
+	Query: "genus:Limnonectes specificepithet:magnus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 809 download events in this period)
+Total number of records downloaded: 8225
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 32
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Taiwan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 12
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 6
+	Date: 2018-12-18 ; Times: 7
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-09 ; Times: 17
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 7
+	Date: 2018-12-17 ; Times: 3
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-10 ; Times: 11
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "rhacophorus bimaculatus" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Eurycea spelaea stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "genus:Ambystoma maculatum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "appendiculatus" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Eurycea longicauda longicauda stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Desmognathus brimleyorum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Scalopus hastissue:1" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "Megophryidae" ; Times: 2
+	Query: "order:Testudines" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Japalura splendida" ; Times: 1
+	Query: "genus:Eurycea lucifuga stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Ambystoma annulatum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 1
+	Query: "Molossus rufus" ; Times: 1
+	Query: "oligoryzomys fulvescens" ; Times: 1
+	Query: "genus:Eurycea tynerensis stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "vntype:specimen family:Canidae institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "vntype:specimen genus:hemidactylus frenatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Myotis nigricans" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "Chaetodipus hispidus" ; Times: 2
+
+
+End of report.
