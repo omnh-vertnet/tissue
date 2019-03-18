@@ -1,0 +1,234 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 876
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 100
+	Country: Australia ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 19
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-23 ; Times: 6
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 4
+	Date: 2019-02-12 ; Times: 11
+	Date: 2019-02-15 ; Times: 7
+	Date: 2019-02-14 ; Times: 8
+	Date: 2019-02-17 ; Times: 4
+	Date: 2019-02-16 ; Times: 6
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 14
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-01 ; Times: 9
+	Date: 2019-02-20 ; Times: 13
+	Date: 2019-02-07 ; Times: 5
+	Date: 2019-02-04 ; Times: 6
+	Date: 2019-02-05 ; Times: 5
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 4
+	Date: 2019-02-28 ; Times: 9
+	Date: 2019-02-02 ; Times: 4
+	Date: 2019-02-03 ; Times: 11
+	Date: 2019-02-27 ; Times: 6
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-21 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "Varanus samarensis" ; Times: 2
+	Query: "notiosorex year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "Melozone fusca fusca mappable:1" ; Times: 1
+	Query: "odontophrynus" ; Times: 2
+	Query: "cajun chorus frog" ; Times: 1
+	Query: "genus:eptesicus country:&#34;argentina&#34; institutioncode:OMNH" ; Times: 1
+	Query: "85469" ; Times: 1
+	Query: "Snapping turtle" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "specificepithet:fowleri genus:Anaxyrus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "Okmulgee" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus hastissue:1" ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "genus:eptesicus country:&#34;argentina&#34;" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 2
+	Query: "OMNH Brachymeles makusog" ; Times: 1
+	Query: "brachymeles kadwa OMNH" ; Times: 1
+	Query: "7488 OMNH" ; Times: 1
+	Query: "class:Mammalia county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 1
+	Query: "(Sciurus carolinensis) hastissue:1" ; Times: 1
+	Query: "Aristóbulo del Valle" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 8
+	Query: "Blarina" ; Times: 3
+	Query: "arroyo toad" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "OMNH 3530" ; Times: 3
+	Query: "specificepithet:frenata genus:Mustela institutioncode:OMNH" ; Times: 1
+	Query: "Varanus olivaceus" ; Times: 2
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "lycalopex griseus" ; Times: 1
+	Query: "PROSOPIS" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Cajun chorus frog" ; Times: 1
+	Query: "Copperhead Data" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 2
+	Query: "Lithobates sphenocephalus oklahoma OMNH" ; Times: 1
+	Query: "grotto salamander" ; Times: 1
+	Query: "genus:microcavia year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &lt;= 2000 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "Phyllobates bicolor" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:Maculatum genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "red backed Salamander" ; Times: 1
+	Query: "vogeli" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "specificepithet:catesbianus genus:Lithobates" ; Times: 2
+	Query: "Elephantidae hastissue:1" ; Times: 1
+	Query: "Acris blanchardi OMNH" ; Times: 1
+	Query: "Hemidactylium missouri" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "specificepithet:platyurus genus:Hemidactylus hastissue:1" ; Times: 2
+	Query: "Common musk turtle" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &lt;= 2018 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "notiosorex year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Eastern screech owl hastissue:1" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 2
+	Query: "genus:chaetura family:apodidae hastissue:1" ; Times: 1
+	Query: "Brucepattersonius guarani" ; Times: 1
+	Query: "specificepithet:nuttallii genus:phalaenoptilus hastissue:1" ; Times: 2
+	Query: "erythromos" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2018 month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "sistrurus catenatus" ; Times: 2
+	Query: "yellow-billed cuckoo hastissue:1" ; Times: 1
+	Query: "13463" ; Times: 1
+	Query: "genus:Salvadora hastissue:1" ; Times: 2
+	Query: "Eurycea lucifuga mappable:1" ; Times: 4
+	Query: "specificepithet:anthracinus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "fishing cat" ; Times: 3
+	Query: "30254" ; Times: 1
+	Query: "OMNH 11801" ; Times: 1
+	Query: "swift fox" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Dasypus" ; Times: 3
+	Query: "genus:Plestiodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "texas tortoise" ; Times: 1
+	Query: "genus:microcavia" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "alligator lizard" ; Times: 4
+	Query: "rubber boa" ; Times: 1
+	Query: "collared lizard" ; Times: 2
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 3
+	Query: "13701" ; Times: 1
+	Query: "greater short-horned lizard" ; Times: 1
+	Query: "ambystoma annulatum stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1227 download events in this period)
+Total number of records downloaded: 355
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 22
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 5
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 6
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "harpia harpyja" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:maculatum genus:Ambystoma haslifestage:1" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "genus:eptesicus country:&#34;argentina&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:OMNH" ; Times: 1
+	Query: "spotted salamander" ; Times: 1
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "lycalopex griseus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "class:Mammalia county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Eastern screech owl hastissue:1" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+
+
+End of report.
