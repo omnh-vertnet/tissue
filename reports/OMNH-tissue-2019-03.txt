@@ -1,0 +1,346 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 275
+Number of records retrieved in searches: 1781
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 55
+	Country: Sweden ; Times: 7
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 15
+	Country: United States ; Times: 151
+	Country: Philippines ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 11
+	Date: 2019-03-27 ; Times: 4
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-24 ; Times: 2
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-08 ; Times: 16
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 24
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 15
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-06 ; Times: 20
+	Date: 2019-03-01 ; Times: 10
+	Date: 2019-03-29 ; Times: 22
+	Date: 2019-03-22 ; Times: 5
+	Date: 2019-03-15 ; Times: 30
+	Date: 2019-03-30 ; Times: 7
+	Date: 2019-03-31 ; Times: 4
+	Date: 2019-03-03 ; Times: 5
+	Date: 2019-03-18 ; Times: 4
+	Date: 2019-03-19 ; Times: 17
+	Date: 2019-03-16 ; Times: 4
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-14 ; Times: 27
+	Date: 2019-03-02 ; Times: 5
+	Date: 2019-03-12 ; Times: 8
+	Date: 2019-03-13 ; Times: 10
+	Date: 2019-03-10 ; Times: 4
+	Date: 2019-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates berlandieri mappable:1" ; Times: 1
+	Query: "genus:Siren order:Caudata stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Clelia clelia" ; Times: 1
+	Query: "genus:Aechmophorus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "delomys" ; Times: 4
+	Query: "family:Scincidae county:&#34;Ellis&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "OMNH fejervarya" ; Times: 1
+	Query: "Scotobleps gabonicus" ; Times: 2
+	Query: "15285" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "Indotyphlops braminus" ; Times: 1
+	Query: "Dendrelaphis caudolineatus" ; Times: 1
+	Query: "Aspidites ramsayi" ; Times: 1
+	Query: "Morelia viridis" ; Times: 1
+	Query: "Cylindrophis ruffus" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Argentina&#34; continent:America" ; Times: 1
+	Query: "genus:Hylorina hastissue:1" ; Times: 1
+	Query: "Coelognathus erythrurus" ; Times: 1
+	Query: "eastern-screech owl hastissue:1" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Calamaria gervaisii" ; Times: 1
+	Query: "OMNH Acris blanchardi" ; Times: 1
+	Query: "Akodon dolores" ; Times: 1
+	Query: "Trimeresurus mcgregori" ; Times: 1
+	Query: "Lycodon capucinus" ; Times: 1
+	Query: "vntype:specimen genus:Dasypus" ; Times: 1
+	Query: "Sturnella magna month &gt;= 4 month &lt;= 6 hastissue:1" ; Times: 1
+	Query: "phrynosoma cornutum vntype:specimen institutioncode:OMNH" ; Times: 1
+	Query: "Hemibungarus calligaster" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Leptopelis millsoni mappable:1" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "extinction data" ; Times: 1
+	Query: "Gonyosoma oxycephalum" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:microtus hastissue:1" ; Times: 3
+	Query: "apalone mutica oklahoma" ; Times: 1
+	Query: "Abrothrix olivaceus mappable:1" ; Times: 6
+	Query: "Calamaria bitorques" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "platyurus hastissue:1" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Sciurus carolinensis vntype:specimen hastissue:1" ; Times: 2
+	Query: "OMNH eutropis" ; Times: 1
+	Query: "Boiga dendrophila" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus" ; Times: 4
+	Query: "Blarina" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 5
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus hastissue:1" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "arroyo toad" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB)" ; Times: 1
+	Query: "Tachymenis chilensis" ; Times: 1
+	Query: "Gonyosoma" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;ellis&#34; stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:rothschildi class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM)" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "Trimeresurus sumatranus" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 3
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 1
+	Query: "Philodryas trilineata" ; Times: 1
+	Query: "boliviae" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;beckham&#34; stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "vntype:specimen genus:Rynchops hastissue:1" ; Times: 1
+	Query: "specificepithet:pichiy genus:Zaedyus hastissue:1" ; Times: 1
+	Query: "genus:Dasypus hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos family:Canidae" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 2
+	Query: "Amnirana albolabris mappable:1" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Boiga nigriceps" ; Times: 1
+	Query: "Copperhead Data" ; Times: 3
+	Query: "Reithrodontomys fulvescens" ; Times: 7
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "Psammodynastes pulverulentus" ; Times: 1
+	Query: "hemidactylus platyurus hastissue:1" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "AKODON DOLORES" ; Times: 3
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "ocelot" ; Times: 3
+	Query: "genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "genus:Alsodes hastissue:1" ; Times: 2
+	Query: "specificepithet:bewickii genus:thryomanes hastissue:1" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 1
+	Query: "OMNH kaloula picta" ; Times: 1
+	Query: "specificepithet:griseus genus:LYCALOPEX class:MAMMALIA" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae institutioncode:OMNH" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Akodon toba" ; Times: 9
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH)" ; Times: 1
+	Query: "Rhabdophis chrysargos" ; Times: 1
+	Query: "ambystoma annulatum Oklahoma" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "Hemidactylium missouri" ; Times: 1
+	Query: "Oxyrhabdium modestum" ; Times: 1
+	Query: "Stegonotus muelleri" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Dendrobates hastissue:1" ; Times: 1
+	Query: "Xenopus epitropicalis mappable:1" ; Times: 1
+	Query: "Dendrelaphis luzonensis" ; Times: 1
+	Query: "Dendrelaphis philippinensis" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes family:Canidae AND (NOT UTEP)" ; Times: 1
+	Query: "order:Lepidosireniformes hastissue:1" ; Times: 3
+	Query: "OMNH lipinia" ; Times: 1
+	Query: "Long nosed snake" ; Times: 1
+	Query: "OMNH eutropis indeprensa" ; Times: 1
+	Query: "Boiga drapiezii" ; Times: 1
+	Query: "Carphophis vermis" ; Times: 1
+	Query: "Trimeresurus venustus" ; Times: 1
+	Query: "Trimeresurus flavomaculatus" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus)" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Oklahoma" ; Times: 4
+	Query: "fragmentation" ; Times: 1
+	Query: "neovison vison" ; Times: 5
+	Query: "OMNH kaloula conjuncta" ; Times: 1
+	Query: "dendrelaphis caudolineatus" ; Times: 1
+	Query: "Ptychadena perreti mappable:1" ; Times: 1
+	Query: "brucepattersonius" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "Homonota darwinii" ; Times: 3
+	Query: "Pygmy rattlesnake" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 6
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "Ptyas luzonensis" ; Times: 1
+	Query: "Hemidactylus fasciatus" ; Times: 1
+	Query: "Aplopeltura boa" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "lithobates sphenocephalus OMNH" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Dasypus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "339777" ; Times: 1
+	Query: "genus:Uta county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Chilabothrus angulifer" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 1
+	Query: "genus:Nycticeius" ; Times: 1
+	Query: "sistrurus catenatus oklahoma" ; Times: 1
+	Query: "sorellus" ; Times: 2
+	Query: "Western spadefoot toad" ; Times: 1
+	Query: "genus:Atelognathus hastissue:1" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 3
+	Query: "Calomys sorellus" ; Times: 2
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Myersophis alpestris" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;dewey&#34; stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Farancia mappable:1" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;roger mills&#34; stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Tropidolaemus mappable:1" ; Times: 1
+	Query: "Oxyrhabdium leporinum" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH NOT FMNH)" ; Times: 1
+	Query: "genus: Psammodynastes tissue" ; Times: 1
+	Query: "Mud snake" ; Times: 1
+	Query: "Deinagkistrodon acutus" ; Times: 1
+	Query: "Tropidolaemus philippensis" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom)" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "OMNH occidozyga laevis" ; Times: 1
+	Query: "specificepithet:pichiy genus:Zaedyus" ; Times: 2
+	Query: "genus:Platymantis specificepithet:luzonensis" ; Times: 1
+	Query: "Cyclocorus lineatus" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "OMNH draco spilopterus" ; Times: 1
+	Query: "OMNH fejervarya vittigera" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1281 download events in this period)
+Total number of records downloaded: 1467
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 42
+	Country: Mexico ; Times: 9
+	Country: Philippines ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 5
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 9
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-22 ; Times: 5
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-16 ; Times: 6
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "genus:Siren order:Caudata stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "side blotched lizard" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "homonota" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "panda" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "sistrurus catenatus oklahoma" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Argentina&#34; continent:America" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "Los Banos Philippines" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "eastern-screech owl hastissue:1" ; Times: 1
+	Query: "Makiling" ; Times: 1
+	Query: "promops" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:Desmognathus order:Caudata stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "apalone mutica oklahoma" ; Times: 1
+	Query: "hylarana erythraea" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus hastissue:1" ; Times: 1
+	Query: "Homonota darwinii" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:pichiy genus:Zaedyus hastissue:1" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "genus:Ophiophagus" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "genus:Homonota" ; Times: 1
+	Query: "ambystoma annulatum Oklahoma" ; Times: 2
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "Copperhead Data" ; Times: 2
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "Plethodon serratus" ; Times: 1
+
+
+End of report.
