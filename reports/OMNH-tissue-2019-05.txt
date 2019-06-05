@@ -1,0 +1,274 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 236
+Number of records retrieved in searches: 1830
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 56
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Chile ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 8
+	Country: United States ; Times: 131
+	Country: Sweden ; Times: 1
+	Country: Gabon ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 14
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 7
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-06 ; Times: 31
+	Date: 2019-05-05 ; Times: 13
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 7
+	Date: 2019-05-01 ; Times: 16
+	Date: 2019-05-25 ; Times: 4
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 13
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-23 ; Times: 15
+	Date: 2019-05-22 ; Times: 19
+	Date: 2019-05-29 ; Times: 6
+	Date: 2019-05-28 ; Times: 7
+	Date: 2019-05-18 ; Times: 5
+	Date: 2019-05-19 ; Times: 2
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-11 ; Times: 6
+	Date: 2019-05-12 ; Times: 7
+	Date: 2019-05-13 ; Times: 8
+	Date: 2019-05-14 ; Times: 12
+	Date: 2019-05-15 ; Times: 11
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Caudata institutioncode:OMNH hastissue:1" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Hemidactylus country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Conepatus chinga mappable:1" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "OU 9981" ; Times: 2
+	Query: "catalognumber:11273 OR 11275 OR 11276 OR 11277 OR 11278 collectioncode:OCGR institutioncode:OMNH" ; Times: 1
+	Query: "Pseudoryzomys simplex mappable:1" ; Times: 1
+	Query: "catalognumber:11275 collectioncode:OCGR institutioncode:OMNH" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 1
+	Query: "Myotis levis mappable:1" ; Times: 1
+	Query: "thylamys venustus year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Akodon montensis mappable:1" ; Times: 3
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "OU 6819" ; Times: 2
+	Query: "genus:spea stateprovince:&#34;arizona&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Histiotus" ; Times: 2
+	Query: "thylamys pallidior" ; Times: 1
+	Query: "acris blanchardi OMNH" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "lama guanicoe" ; Times: 5
+	Query: "Eastern milksnake" ; Times: 4
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "sanguirana luzonensis institutioncode:OMNH" ; Times: 1
+	Query: "10408 Peromyscus" ; Times: 1
+	Query: "Thaptomys nigrita mappable:1" ; Times: 1
+	Query: "genus:Atelognathus specificepithet:praebasalticus" ; Times: 1
+	Query: "anaxyrus americanus OMNH" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Molossops temminckii mappable:1" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "DBS genus:Arizona" ; Times: 1
+	Query: "&#34;genomic&#34; specificepithet:cooperii genus:Accipiter institutioncode:OMNH" ; Times: 1
+	Query: "Oxymycterus quaestor mappable:1" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "Antrostomus carolinensis year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "pseudacris clarkii OMNH" ; Times: 1
+	Query: "catalognumber:11273 institutioncode:OMNH" ; Times: 2
+	Query: "Eptesicus furinalis mappable:1" ; Times: 1
+	Query: "gastrophryne carolinensis OMNH" ; Times: 1
+	Query: "shinisaurus hassex:1 hastissue:1" ; Times: 1
+	Query: "Egretta caerulea mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Phoenicopterus ruber year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "catalognumber:12483 institutioncode:OMNH" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen hastissue:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "genus:Cerberus country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "Ornate box turtle" ; Times: 1
+	Query: "Myotis riparius mappable:1" ; Times: 1
+	Query: "copperhead data" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 2
+	Query: "Red panda" ; Times: 1
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:11279 OR 11369 OR 11370 OR 11371 OR 11695 OR 13927 OR 13930 collectioncode:OCGR institutioncode:OMNH" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "Abrothrix andinus mappable:1" ; Times: 1
+	Query: "Phyllobates bicolor" ; Times: 1
+	Query: "OU 15492" ; Times: 2
+	Query: "Eptesicus diminutus mappable:1" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "specificepithet:bombifrons genus:spea hastissue:1" ; Times: 3
+	Query: "hyla cinerea OMNH" ; Times: 1
+	Query: "Oligoryzomys nigripes mappable:1" ; Times: 1
+	Query: "Abrothrix andinus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "Myotis albescens mappable:1" ; Times: 1
+	Query: "thylamys sponsorius year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "sciurus ignitus" ; Times: 1
+	Query: "Loxodontomys micropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "Pseudacris streckeri OMNH" ; Times: 1
+	Query: "DBS 872 genus:Arizona" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "thylamys karimii year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Thryothorus ludovicianus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Thylamys" ; Times: 1
+	Query: "catalognumber:13961 OR 15018 OR 15033 collectioncode:OCGR institutioncode:OMNH" ; Times: 1
+	Query: "Arthroleptis sylvaticus mappable:1" ; Times: 2
+	Query: "Lithobates sphenocephalus OMNH" ; Times: 1
+	Query: "Trichoglossus haematodus hastissue:1" ; Times: 1
+	Query: "Chrotopterus auritus mappable:1" ; Times: 10
+	Query: "DBS 837" ; Times: 2
+	Query: "collared dove" ; Times: 1
+	Query: "California tiger salamander" ; Times: 12
+	Query: "massasauga" ; Times: 2
+	Query: "Eumops patagonicus mappable:1" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "histiotus" ; Times: 5
+	Query: "Oxymycterus rufus mappable:1" ; Times: 1
+	Query: "Timber rattlesnake" ; Times: 3
+	Query: "Euphractus sexcinctus mappable:1" ; Times: 1
+	Query: "thylamys cinderella year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "shinisaurus hastissue:1" ; Times: 3
+	Query: "Sooretamys angouya mappable:1" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "Sanguirana tipanan" ; Times: 2
+	Query: "thylamys pusillus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 3
+	Query: "Polioptila caerulea year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "&#34;genomic&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "Promops nasutus mappable:1" ; Times: 1
+	Query: "Myotis ruber mappable:1" ; Times: 1
+	Query: "Pygoderma bilabiatum mappable:1" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "dbs 785" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 3
+	Query: "Massasauga" ; Times: 1
+	Query: "Acris blanchardi institutioncode:OMNH" ; Times: 1
+	Query: "lithobates pipiens omnh" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Hemidactylus country:&#34;Gabon&#34; hastissue:1" ; Times: 9
+	Query: "Eurycea tynerensis Oklahoma" ; Times: 3
+	Query: "Protopterus" ; Times: 2
+	Query: "Delomys dorsalis mappable:1" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 6
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Texas brown snake" ; Times: 1
+	Query: "OU 13980" ; Times: 2
+	Query: "Theloderma" ; Times: 4
+	Query: "Arroyo Toad" ; Times: 14
+	Query: "sanguiRana luzonensis institutioncode:OMNH" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "Artibeus planirostris" ; Times: 1
+	Query: "varanus beccarii" ; Times: 1
+	Query: "Lycalopex culpaeus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Eurypyga helias year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 940 download events in this period)
+Total number of records downloaded: 932
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 18
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-28 ; Times: 3
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-13 ; Times: 5
+	Date: 2019-05-14 ; Times: 4
+	Date: 2019-05-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "Red panda" ; Times: 1
+	Query: "thylamys karimii year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "thylamys cinderella year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "thylamys pusillus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "&#34;Ophiophagus hannah&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Tennessee&#34; institutioncode:OMNH" ; Times: 1
+	Query: "vntype:specimen genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "DBS genus:Arizona" ; Times: 1
+	Query: "thylamys sponsorius year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "thylamys venustus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+
+
+End of report.
