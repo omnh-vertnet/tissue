@@ -1,0 +1,353 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 373
+Number of records retrieved in searches: 3975
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 26
+	Country: Philippines ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: Argentina ; Times: 30
+	Country: United States ; Times: 288
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 3
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 4
+	Date: 2019-09-10 ; Times: 5
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 15
+	Date: 2019-09-13 ; Times: 11
+	Date: 2019-09-18 ; Times: 58
+	Date: 2019-09-19 ; Times: 26
+	Date: 2019-09-30 ; Times: 7
+	Date: 2019-09-09 ; Times: 16
+	Date: 2019-09-08 ; Times: 3
+	Date: 2019-09-03 ; Times: 11
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 71
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-04 ; Times: 12
+	Date: 2019-09-21 ; Times: 16
+	Date: 2019-09-20 ; Times: 8
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 11
+	Date: 2019-09-24 ; Times: 52
+	Date: 2019-09-27 ; Times: 18
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ARG 981" ; Times: 2
+	Query: "Holochilus" ; Times: 1
+	Query: "ARG 351" ; Times: 2
+	Query: "Lampropeltis (calligaster OR rhombomaculata) hastissue:1" ; Times: 1
+	Query: "ARG 777" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "genus:Pantherophis county:&#34;Pushmataha&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "Pantherophis hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:scalopus institutioncode:OMNH" ; Times: 1
+	Query: "ARG 677" ; Times: 2
+	Query: "specificepithet:emoryi genus:pantherophis institutioncode:OMNH" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 36
+	Query: "(Pantherophis OR Elaphe) (guttatus OR guttata OR slowinskii OR emoryi) hastissue:1" ; Times: 2
+	Query: "Diadophis hastissue:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "Akodon neocenus" ; Times: 1
+	Query: "specificepithet:bimaculatus genus:Draco class:Reptilia" ; Times: 1
+	Query: "vntype:specimen genus:Calamaria hastissue:1" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "Akodon dolores" ; Times: 3
+	Query: "Gopher Snake" ; Times: 1
+	Query: "andinomys edax" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Black-throated Blue Warbler hastissue:1" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Lampropeltis calligaster hastissue:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Philodryas patagoniensis mappable:1" ; Times: 1
+	Query: "CDS 10 Dendrelaphis" ; Times: 1
+	Query: "genus:Hypsiglena hastissue:1" ; Times: 1
+	Query: "ARG 643" ; Times: 3
+	Query: "Antrostomus hastissue:1" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;north carolina&#34;" ; Times: 3
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "ARG 3884" ; Times: 3
+	Query: "&#34;Neotoma micropus&#34; stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;Latimer&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "vntype:specimen (siren) hastissue:1" ; Times: 2
+	Query: "genus:Cerberus hastissue:1" ; Times: 1
+	Query: "specificepithet:colubris genus:Archilochus year &gt;= 2010 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "arroyo toad" ; Times: 1
+	Query: "ARG 803" ; Times: 1
+	Query: "specificepithet:scutatum genus:hemidactylium stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Arkansas&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Cimarron&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Myotis riparius" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:fumeus genus:sorex stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 6
+	Query: "genus:Baiomys stateprovince:&#34;Oklahoma&#34;" ; Times: 5
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:bimaculatus" ; Times: 1
+	Query: "family:Talpidae stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "Pantherophis (gutattus OR slowinski OR emoryi) hastissue:1" ; Times: 1
+	Query: "genus:Calamaria hastissue:1" ; Times: 2
+	Query: "ARG 781" ; Times: 1
+	Query: "Pantherophis AND (guttatus OR guttata OR emoryi OR slowinskii) hastissue:1" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "Peromyscus maniculatus 1989" ; Times: 4
+	Query: "Peromyscus maniculatus 1988" ; Times: 4
+	Query: "Storeria dekayi hastissue:1" ; Times: 3
+	Query: "Peromyscus maniculatus 2004" ; Times: 2
+	Query: "Copperhead Data" ; Times: 1
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:OMNH" ; Times: 5
+	Query: "(Pantherophis OR Elaphe) (gutattus OR slowinskii OR emoryi) hastissue:1" ; Times: 3
+	Query: "ARG 851" ; Times: 2
+	Query: "vireo bellii hastissue:1" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "black headed grosbeak vntype:specimen hastissue:1" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "bats" ; Times: 1
+	Query: "specificepithet:gouldiae family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "genus:Pelecanus sex:Female (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "gray fox" ; Times: 30
+	Query: "catalognumber:1823 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gargola genus:Alsodes" ; Times: 1
+	Query: "vntype:specimen (siren) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2009" ; Times: 2
+	Query: "Peromyscus maniculatus 2008" ; Times: 3
+	Query: "river cooter" ; Times: 1
+	Query: "Regina grahamii" ; Times: 3
+	Query: "Akodon toba" ; Times: 1
+	Query: "Lithobates sphenocephalus" ; Times: 1
+	Query: "Peromyscus maniculatus 2000" ; Times: 1
+	Query: "Peromyscus maniculatus 1996" ; Times: 2
+	Query: "CDS 10" ; Times: 1
+	Query: "ARG 3700" ; Times: 1
+	Query: "Peromyscus maniculatus 1995" ; Times: 2
+	Query: "Fejervarya vittigera" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Clelia clelia mappable:1" ; Times: 1
+	Query: "uniparens kansas" ; Times: 1
+	Query: "aspidoscelis burti burti" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 20
+	Query: "catalognumber:1894 institutioncode:OMNH" ; Times: 1
+	Query: "Brucepattersonius" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;Atoka&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "Microtus pennsylvanicus 2001" ; Times: 1
+	Query: "Platymantis corrugatus OMNH" ; Times: 2
+	Query: "Plethodon angusticlavius" ; Times: 7
+	Query: "collared dove" ; Times: 1
+	Query: "genus:Holochilus" ; Times: 1
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "Setophaga auduboni year &gt;= 1980 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2010" ; Times: 1
+	Query: "Peromyscus maniculatus 2011" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 4
+	Query: "green toad" ; Times: 1
+	Query: "Peromyscus maniculatus 1992" ; Times: 2
+	Query: "brucepattersonius" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "Pantherophis (gutattus OR slowinskii OR emoryi) hastissue:1" ; Times: 1
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "family:phoenicopteridae hastissue:1" ; Times: 1
+	Query: "ARG 913" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia hastissue:1" ; Times: 1
+	Query: "vntype:specimen (Dasypus novemcinctus) hastissue:1" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia hastissue:1" ; Times: 1
+	Query: "genus:Diadophis institutioncode:OMNH" ; Times: 3
+	Query: "Diadophis punctatus hastissue:1" ; Times: 2
+	Query: "ARG 692" ; Times: 3
+	Query: "Limnonectes magnus" ; Times: 1
+	Query: "ARG 3726" ; Times: 1
+	Query: "Agkistrodon (contortrix OR laticinctus) hastissue:1" ; Times: 1
+	Query: "genus:Akodon toba hastissue:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "RMB Stegonotus" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "Chicken Turtle" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 15
+	Query: "specificepithet:abacura genus:Farancia" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "genus:Plethodon county:&#34;Hempstead&#34; stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:gapperi stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 12
+	Query: "Box Turtle" ; Times: 1
+	Query: "Akodon iniscatus" ; Times: 1
+	Query: "Platymantis OMNH" ; Times: 3
+	Query: "ARG 747" ; Times: 4
+	Query: "genus:Pituophis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34; hastissue:1" ; Times: 1
+	Query: "(Pantherophis OR Elaphe) (gutattus OR gutatta OR slowinskii OR emoryi) hastissue:1" ; Times: 1
+	Query: "kaloula picta OMNH" ; Times: 1
+	Query: "&#34;Neotoma micropus&#34; institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Thamnophis radix hastissue:1" ; Times: 1
+	Query: "western diamondback" ; Times: 2
+	Query: "Oxyrhabdium modestum" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "genus:Odontophrynus specificepithet:occidentalis" ; Times: 1
+	Query: "specificepithet:punctatus genus:diadophis county:&#34;delaware&#34; stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Little river&#34; stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Setophaga auduboni month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; stateprovince:&#34;Oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "specificepithet:sipedon genus:Nerodia hastissue:1" ; Times: 2
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1073 download events in this period)
+Total number of records downloaded: 2935
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 60
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-18 ; Times: 12
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 10
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 4
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 5
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 4
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "genus:Diadophis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "Lampropeltis (calligaster OR rhombomaculata) hastissue:1" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "prairie vole" ; Times: 1
+	Query: "Black-throated Blue Warbler hastissue:1" ; Times: 1
+	Query: "genus:aspidoscelis hastissue:1" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "Agkistrodon (contortrix OR laticinctus) hastissue:1" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "genus:Akodon toba hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Amphibia Oklahoma" ; Times: 1
+	Query: "&#34;Neotoma micropus&#34; institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "&#34;Neotoma micropus&#34; hastissue:1" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "Diadophis punctatus hastissue:1" ; Times: 1
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Akodon toba" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "Akodon neocenus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Storeria dekayi hastissue:1" ; Times: 1
+	Query: "Akodon dolores" ; Times: 1
+	Query: "Akodon iniscatus" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Brucepattersonius" ; Times: 1
+	Query: "specificepithet:serratus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen (siren) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "Thamnophis radix hastissue:1" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "genus:Holochilus" ; Times: 1
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops institutioncode:OMNH" ; Times: 2
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Pantherophis AND (guttatus OR guttata OR emoryi OR slowinskii) hastissue:1" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; hastissue:1" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Reptilia Oklahoma" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus hastissue:1" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+
+
+End of report.
