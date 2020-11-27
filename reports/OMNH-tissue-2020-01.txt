@@ -1,0 +1,412 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 355
+Number of records retrieved in searches: 3596
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 305
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 19
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: China ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 10
+	Country: Dominica ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 6
+	Date: 2020-01-03 ; Times: 4
+	Date: 2020-01-02 ; Times: 7
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-07 ; Times: 8
+	Date: 2020-01-06 ; Times: 4
+	Date: 2020-01-05 ; Times: 7
+	Date: 2020-01-04 ; Times: 4
+	Date: 2020-01-21 ; Times: 9
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 11
+	Date: 2020-01-25 ; Times: 12
+	Date: 2020-01-24 ; Times: 69
+	Date: 2020-01-27 ; Times: 8
+	Date: 2020-01-26 ; Times: 4
+	Date: 2020-01-29 ; Times: 18
+	Date: 2020-01-28 ; Times: 5
+	Date: 2020-01-18 ; Times: 10
+	Date: 2020-01-19 ; Times: 4
+	Date: 2020-01-23 ; Times: 54
+	Date: 2020-01-14 ; Times: 9
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-30 ; Times: 36
+	Date: 2020-01-31 ; Times: 37
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-13 ; Times: 12
+	Date: 2020-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Numenius stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 23
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "specificepithet:greshoffii genus:Cryptothylax institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "Aspidoscelis burti" ; Times: 1
+	Query: "specificepithet:mimulus genus:Platymantis" ; Times: 1
+	Query: "plethodon angusticlavius" ; Times: 2
+	Query: "Chrotopterus auritus institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:conjuncta genus:Kaloula institutioncode:OMNH" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "phymaturus" ; Times: 4
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 15
+	Query: "specificepithet:varius genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "specificepithet:hammondii genus:Spea" ; Times: 1
+	Query: "specificepithet:varius genus:Lasiurus family:Vespertilionidae" ; Times: 2
+	Query: "specificepithet:guentheri genus:Ceratobatrachus" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:paradorsalis genus:Afrixalus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 2
+	Query: "specificepithet:auratus genus:Dendrobates" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 7
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "genus:Zonotrichia year &gt;= 2000 year &lt;= 2019 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:woodworthi genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:batesi genus:Astylosternus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:pardalis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:tuberculatus genus:Hyperolius institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:montanus genus:Histiotus hastissue:1" ; Times: 1
+	Query: "specificepithet:conjuncta genus:Kaloula" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:fouquettei genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Hoplobatrachus" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:vittigera genus:Fejervarya institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:corticale genus:Theloderma" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "catalognumber:7955 institutioncode:OMNH" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "abrocoma" ; Times: 2
+	Query: "Euphractus sexcinctus mappable:1" ; Times: 3
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae hastissue:1" ; Times: 2
+	Query: "specificepithet:leucomystax genus:Polypedates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus hastissue:1" ; Times: 1
+	Query: "Phoca vitulina vntype:specimen" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:lepus genus:Amnirana institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Limnonectes" ; Times: 1
+	Query: "genus:Tylototriton specificepithet:kweichowensis" ; Times: 2
+	Query: "specificepithet:fouquettei genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:mimulus genus:Platymantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Arthroleptis institutioncode:OMNH" ; Times: 1
+	Query: "Oligoryzomys nigripes mappable:1" ; Times: 2
+	Query: "specificepithet:lepus genus:Amnirana" ; Times: 1
+	Query: "Sphenomorphus acutus" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis hastissue:1" ; Times: 2
+	Query: "nine banded armadillo" ; Times: 1
+	Query: "specificepithet:magnus genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:appendiculatus genus:Rhacophorus" ; Times: 1
+	Query: "Ramphotyphlops braminus country:&#34;philippines&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Gastrophryne institutioncode:OMNH" ; Times: 1
+	Query: "Akodon bogotensis" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "catalognumber:8715 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 3
+	Query: "13990" ; Times: 1
+	Query: "holochilus" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "specificepithet:rufescens genus:Chiromantis" ; Times: 1
+	Query: "longspur noble" ; Times: 2
+	Query: "specificepithet:vittigera genus:Fejervarya" ; Times: 1
+	Query: "specificepithet:corticale genus:Theloderma institutioncode:OMNH" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Nyctinomops macrotis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "15-2654" ; Times: 1
+	Query: "&#34;Ailurus fulgens&#34;" ; Times: 5
+	Query: "85834" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:rufescens genus:Chiromantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pleurostigma genus:Kalophrynus" ; Times: 1
+	Query: "catalognumber:5228 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:albolabris genus:Amnirana institutioncode:OMNH" ; Times: 1
+	Query: "genus:Platymantis specificepithet:mimulus" ; Times: 1
+	Query: "specificepithet:leonardi genus:Phlyctimantis" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Hoplobatrachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:ega genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 2
+	Query: "Thylamys karimii" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:bicolor genus:Phyllobates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:millsoni genus:Leptopelis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pardalis genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "specificepithet:otilophus genus:Polypedates institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:chrysoscelis genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Sanguirana luzonensis institutioncode:OMNH" ; Times: 2
+	Query: "genus:Varanus stateprovince:&#34;Samar&#34; country:&#34;Philippines&#34;" ; Times: 1
+	Query: "genus:clelia hastissue:1" ; Times: 1
+	Query: "Amnirana albolabris mappable:1" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:OMNH" ; Times: 1
+	Query: "ramphotyphlops braminus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Platymantis" ; Times: 1
+	Query: "specificepithet:pardalis genus:Rhacophorus institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:4877 institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:OMNH" ; Times: 6
+	Query: "genus:cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet:otilophus genus:Polypedates" ; Times: 1
+	Query: "vireo bellii hastissue:1" ; Times: 1
+	Query: "Blanchard’s Cricket" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:OMNH" ; Times: 1
+	Query: "common snapping turtle" ; Times: 1
+	Query: "Draco bimaculatus" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Arthroleptis institutioncode:OMNH" ; Times: 1
+	Query: "pygoderma bilabiatum basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Acris Blanchard’s" ; Times: 2
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "specificepithet:gracilis genus:Cardioglossa" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "&#34;Tremarctos ornatus &#34;" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leytensis genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gargola genus:Alsodes" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Hylorina institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:squirella genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leonardi genus:Phlyctimantis institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:8918 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:velifer genus:myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Odontophrynus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:tuberculatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:OMNH" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 6
+	Query: "35114" ; Times: 2
+	Query: "specificepithet:poecilonotus genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:OMNH" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 11
+	Query: "asian elephant" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 3
+	Query: "Eutropis multicarinata" ; Times: 3
+	Query: "specificepithet:rugulosus genus:Hoplobatrachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:woodworthi genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "Arthroleptis sylvaticus mappable:1" ; Times: 1
+	Query: "genus:Clelia hastissue:1" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "catalognumber:17288 institutioncode:OMNH" ; Times: 1
+	Query: "common poorwill" ; Times: 2
+	Query: "specificepithet:mabouia genus:hemidactylus institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:guttulatus genus:Hyperolius institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:millsoni genus:Leptopelis" ; Times: 1
+	Query: "catalognumber:8917 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:micropus genus:Loxodontomys" ; Times: 1
+	Query: "copperhead county" ; Times: 1
+	Query: "specificepithet:rugulosus genus:Hoplobatrachus" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:picta genus:Kaloula institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra hastissue:1" ; Times: 1
+	Query: "Apalone spinifera Texas" ; Times: 1
+	Query: "specificepithet:hurterii genus:Scaphiopus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:greshoffii genus:Cryptothylax" ; Times: 1
+	Query: "Ocelot" ; Times: 1
+	Query: "Eutropis indeprensa" ; Times: 1
+	Query: "marble salamander" ; Times: 1
+	Query: "specificepithet:surdus genus:Philautus" ; Times: 1
+	Query: "specificepithet:leytensis genus:Limnonectes" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 2
+	Query: "specificepithet:albolabris genus:Amnirana" ; Times: 1
+	Query: "specificepithet:hurterii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:crucifer genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 3
+	Query: "specificepithet:adspersus genus:Hyperolius institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gabonicus genus:Scotobleps" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 2
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Platymantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:guttulatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Platymantis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:picta genus:Kaloula" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga" ; Times: 1
+	Query: "genus:Histiotus hastissue:1" ; Times: 7
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "specificepithet:guentheri genus:Ceratobatrachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus country:&#34;Gabon&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:pleurostigma genus:Kalophrynus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Limnonectes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:paradorsalis genus:Afrixalus" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 2
+	Query: "Massasauga" ; Times: 1
+	Query: "specificepithet:natator genus:Staurois" ; Times: 1
+	Query: "specificepithet:africanus genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:versicolor genus:Hyla institutioncode:OMNH" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:pardalis genus:Hyperolius institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:surdus genus:Philautus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gracilis genus:Cardioglossa institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:batesi genus:Astylosternus" ; Times: 1
+	Query: "Melanerpes aurifrons AND Oklahoma" ; Times: 2
+	Query: "specificepithet:magnus genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:gabonicus genus:Scotobleps institutioncode:OMNH" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "chaetophractus villosus" ; Times: 1
+	Query: "specificepithet:appendiculatus genus:Rhacophorus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:natator genus:Staurois institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:gargola genus:Alsodes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:maculata genus:Pseudacris institutioncode:OMNH" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Hylorina" ; Times: 1
+	Query: "specificepithet:africanus genus:Phrynobatrachus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua" ; Times: 1
+	Query: "specificepithet:bicolor genus:Phyllobates" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 1584 download events in this period)
+Total number of records downloaded: 2296
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 90
+	Country: Brazil ; Times: 1
+	Country: China ; Times: 6
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-02 ; Times: 5
+	Date: 2020-01-07 ; Times: 7
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-04 ; Times: 3
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-25 ; Times: 7
+	Date: 2020-01-24 ; Times: 14
+	Date: 2020-01-27 ; Times: 3
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-31 ; Times: 8
+	Date: 2020-01-11 ; Times: 4
+	Date: 2020-01-12 ; Times: 8
+	Date: 2020-01-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "family:Cervidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:varius genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Aspidoscelis sonorae" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Aspidoscelis uniparens" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 12
+	Query: "&#34;bd&#34; order:anura" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "specificepithet:velifer genus:myotis hastissue:1" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "specificepithet:areolatus family:ranidae" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "longspur noble" ; Times: 1
+	Query: "Phelsuma madagascariensis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "Eutropis multifasciata" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "Aspidoscelis burti" ; Times: 1
+	Query: "Draco bimaculatus" ; Times: 2
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "specificepithet:longipilis genus:Abrothrix" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:varius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "specificepithet:ega genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Thylamys karimii" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Eutropis multicarinata" ; Times: 1
+	Query: "Hemidactylus platyurus" ; Times: 2
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "specificepithet:micropus genus:Loxodontomys" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Eutropis indeprensa" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Sphenomorphus acutus" ; Times: 1
+	Query: "Cyrtodactylus annulatus" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
