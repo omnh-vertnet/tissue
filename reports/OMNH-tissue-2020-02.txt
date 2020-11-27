@@ -1,0 +1,331 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 395
+Number of records retrieved in searches: 2632
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 355
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 32
+	Date: 2020-02-05 ; Times: 32
+	Date: 2020-02-02 ; Times: 28
+	Date: 2020-02-03 ; Times: 81
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-01 ; Times: 25
+	Date: 2020-02-20 ; Times: 12
+	Date: 2020-02-21 ; Times: 10
+	Date: 2020-02-22 ; Times: 24
+	Date: 2020-02-23 ; Times: 8
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 9
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 7
+	Date: 2020-02-11 ; Times: 6
+	Date: 2020-02-10 ; Times: 15
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 6
+	Date: 2020-02-15 ; Times: 9
+	Date: 2020-02-14 ; Times: 4
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 5
+	Date: 2020-02-18 ; Times: 5
+	Date: 2020-02-24 ; Times: 4
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-06 ; Times: 42
+	Date: 2020-02-07 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "california tiger salamander" ; Times: 1
+	Query: "lithobates sphenocephalus" ; Times: 2
+	Query: "genus:Ambystoma lifestage:egg" ; Times: 1
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "Pulchrana similis OMNH" ; Times: 2
+	Query: "Sistrurus catenatus catenatus" ; Times: 1
+	Query: "specificepithet:vermis genus:Carphophis hastissue:1" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Draco OMNH" ; Times: 4
+	Query: "platymantis luzonensis" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 2
+	Query: "14267" ; Times: 1
+	Query: "armadillo Dasypus novemcinctus" ; Times: 1
+	Query: "Tremarctos Ornatus" ; Times: 1
+	Query: "hastissue:1 Rhynchophanes mccownii noble" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Kaloula picta OMNH" ; Times: 1
+	Query: "kaloula conjuncta omnh" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Pinoyscincus llanosi OMNH" ; Times: 1
+	Query: "&#34;Dasypus Novemcinctus&#34;" ; Times: 3
+	Query: "specificepithet:taxus genus:Taxidea hastissue:1" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Opossums" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "genus:galea" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes hastissue:1" ; Times: 2
+	Query: "Draco bimaculatus OMNH" ; Times: 1
+	Query: "crawfish frog" ; Times: 1
+	Query: "genus:Eurycea recordedby:Brown" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "evolution" ; Times: 1
+	Query: "spectacled bear Tremarctos ornatus" ; Times: 1
+	Query: "hastissue:1 Calcarius ornatus noble" ; Times: 1
+	Query: "genus:sonora county:&#34;beckham&#34;" ; Times: 4
+	Query: "apalone spinifera texas" ; Times: 2
+	Query: "l3" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "(&#34;dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "NA NA" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:OMNH" ; Times: 1
+	Query: "KU and 4113" ; Times: 1
+	Query: "(Armadillo)" ; Times: 1
+	Query: "Kaloula OMNH" ; Times: 1
+	Query: "genus:diadophis institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "Draco spilopterus OMNH" ; Times: 1
+	Query: "kaloula omnh" ; Times: 1
+	Query: "prosopis" ; Times: 4
+	Query: "Leopardus pardalis" ; Times: 6
+	Query: "red panda" ; Times: 2
+	Query: "Limnonectes leytensis OMNH" ; Times: 1
+	Query: "aspidoscelis burti" ; Times: 3
+	Query: "vampire" ; Times: 2
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 23
+	Query: "leopardus pardalis" ; Times: 6
+	Query: "Aspidoscelis arizonae" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus institutioncode:OMNH" ; Times: 1
+	Query: "(nine-banded armadillo)" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:OMNH" ; Times: 1
+	Query: "rhacophorus OMNH" ; Times: 2
+	Query: "euphractus sexcinctus" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "Pulchrana OMNH" ; Times: 2
+	Query: "Theloderma Corticale" ; Times: 2
+	Query: "opossums" ; Times: 2
+	Query: "specificepithet:emoryi genus:pantherophis institutioncode:OMNH" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 4
+	Query: "Nine-banded armadillo" ; Times: 4
+	Query: "Sanguirana luzonensis institutioncode:OMNH" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "specificepithet:olivaceus genus:varanus" ; Times: 7
+	Query: "(dasypus novemcinctus)" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "Texas horned lizard stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "spectacled bear" ; Times: 1
+	Query: "genus:lithobates stateprovince:&#34;Illinois&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Pinoyscincus abdictus OMNH" ; Times: 1
+	Query: "rhacophorus bimaculatus OMNH" ; Times: 1
+	Query: "tremarctos &#34;ornatus&#34;" ; Times: 2
+	Query: "Patch nosed snake" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 20
+	Query: "Melanerpes institutioncode:OMNH hastissue:1" ; Times: 3
+	Query: "Pulchrana grandocula OMNH" ; Times: 1
+	Query: "(&#34;leopardus pardalis&#34;)" ; Times: 1
+	Query: "genus:ambystoma lifestage:egg" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "african wild dog" ; Times: 1
+	Query: "Armadillo" ; Times: 2
+	Query: "(spectacled bear Tremarctos ornatus)" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 39
+	Query: "Calcarius ornatus noble" ; Times: 1
+	Query: "Armadillo Dasypus novemcinctus" ; Times: 1
+	Query: "class:mammalia county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 5
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis hastissue:1" ; Times: 2
+	Query: "Apalone spinifera texas" ; Times: 1
+	Query: "(tremarctos ornatus)" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "genus:Ursus institutioncode:OMNH" ; Times: 2
+	Query: "genus:Holochilus" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Draco ornatus OMNH" ; Times: 1
+	Query: "(armadillo)" ; Times: 1
+	Query: "platymantis luzonensis omnh" ; Times: 1
+	Query: "Bats" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "KU 7020" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 9
+	Query: "TREMARCTOS ORNATUS" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 22
+	Query: "(&#34;Dasypus Novemcinctus&#34;)" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "phoca" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "Sam noble Calcarius" ; Times: 1
+	Query: "Red spotted toad" ; Times: 5
+	Query: "14245" ; Times: 1
+	Query: "(Dasypus novemcinctus)" ; Times: 3
+	Query: "rhacophorus pardalis OMNH" ; Times: 1
+	Query: "Akodon albiventer" ; Times: 2
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 2
+	Query: "genus:Histiotus hastissue:1" ; Times: 2
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Sphenomorphus OMNH" ; Times: 1
+	Query: "Pinoyscincus OMNH" ; Times: 3
+	Query: "Crested porcupine Hystrix cristata" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 6
+	Query: "KU 7418" ; Times: 1
+	Query: "specificepithet:phoebe genus:sayornis family:Tyrannidae hastissue:1" ; Times: 2
+	Query: "Pseudogekko compresicorpus" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 13
+	Query: "&#34;Ailurus Fulgens&#34;" ; Times: 1
+	Query: "Poison dart frog" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 8
+	Query: "spinifera texas" ; Times: 2
+	Query: "Protopterus" ; Times: 1
+	Query: "genus:microcavia" ; Times: 1
+	Query: "Dasypus &#34;novemcinctus&#34;" ; Times: 3
+	Query: "rubber boa" ; Times: 2
+	Query: "(Nine banded armadillo Dasypus novemcinctus)" ; Times: 2
+	Query: "mountain skink" ; Times: 1
+	Query: "anaxyrus fowler" ; Times: 2
+	Query: "eurycea tynerensis" ; Times: 1
+	Query: "no data specificepithet:storri genus:varanus" ; Times: 2
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:OMNH" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "Pinoyscincus jagori OMNH" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "Patch-nosed snake" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 117 (out of 1023 download events in this period)
+Total number of records downloaded: 1542
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 97
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 11
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-03 ; Times: 16
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-01 ; Times: 6
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 12
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-02 ; Times: 6
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-06 ; Times: 16
+	Date: 2020-02-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "TREMARCTOS ORNATUS" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 16
+	Query: "genus:cavia" ; Times: 1
+	Query: "setophaga coronata auduboni" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "hastissue:1 Calcarius ornatus noble" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 17
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 3
+	Query: "sorex cinereus" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "(spectacled bear Tremarctos ornatus)" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "louisiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "class:mammalia county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "hastissue:1 Rhynchophanes mccownii noble" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "Anguidae" ; Times: 2
+	Query: "genus:galea" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:microcavia" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 5
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "(tremarctos ornatus)" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 6
+	Query: "class:Mammalia county:&#34;Gaines&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Vulpes (velox) hastissue:1" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
