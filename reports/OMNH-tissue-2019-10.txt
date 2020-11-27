@@ -1,0 +1,400 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 358
+Number of records retrieved in searches: 2448
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 26
+	Country: Philippines ; Times: 1
+	Country: Uruguay ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 13
+	Country: United States ; Times: 304
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 12
+	Date: 2019-10-08 ; Times: 12
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-26 ; Times: 8
+	Date: 2019-10-25 ; Times: 5
+	Date: 2019-10-24 ; Times: 23
+	Date: 2019-10-01 ; Times: 9
+	Date: 2019-10-03 ; Times: 12
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-05 ; Times: 39
+	Date: 2019-10-04 ; Times: 64
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-06 ; Times: 5
+	Date: 2019-10-23 ; Times: 6
+	Date: 2019-10-22 ; Times: 22
+	Date: 2019-10-29 ; Times: 4
+	Date: 2019-10-18 ; Times: 16
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 17
+	Date: 2019-10-11 ; Times: 7
+	Date: 2019-10-30 ; Times: 18
+	Date: 2019-10-31 ; Times: 25
+	Date: 2019-10-14 ; Times: 14
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-15 ; Times: 7
+	Date: 2019-10-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus ochrogaster 2006" ; Times: 1
+	Query: "Microtus ochrogaster 2004" ; Times: 1
+	Query: "Microtus ochrogaster 2005" ; Times: 1
+	Query: "Microtus ochrogaster 2002" ; Times: 1
+	Query: "Microtus ochrogaster 2003" ; Times: 1
+	Query: "Geomys bursarius 2012" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Chaetodipus hispidus 2006" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis institutioncode:OMNH" ; Times: 3
+	Query: "OMNH Aurora Serpentes" ; Times: 1
+	Query: "Microtus ochrogaster 2008" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "genus:Opheodrys institutioncode:OMNH" ; Times: 1
+	Query: "vermis" ; Times: 2
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "Ptyas Albay" ; Times: 1
+	Query: "northern leopard frog" ; Times: 1
+	Query: "Storeria dekayi (Missouri OR Arkansas OR Illinois OR Mississippi OR Louisiana) hastissue:1" ; Times: 1
+	Query: "Ptychadena perreti" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 11
+	Query: "Geomys bursarius 2003" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius" ; Times: 1
+	Query: "Rattus norvegicus 2008" ; Times: 1
+	Query: "Rattus norvegicus 2004" ; Times: 1
+	Query: "Rattus norvegicus 2006" ; Times: 1
+	Query: "Rattus norvegicus 2007" ; Times: 1
+	Query: "Mus musculus 2012" ; Times: 2
+	Query: "specificepithet:pulchella genus:Lipinia family:Scincidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reithrodontomys megalotis 2011" ; Times: 1
+	Query: "Myotis septentrionalis 1997" ; Times: 1
+	Query: "Odontophrynus occidentalis" ; Times: 1
+	Query: "Mus musculus 2014" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Regina grahamii mappable:1" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 2
+	Query: "Grotto Salamander" ; Times: 2
+	Query: "Geomys bursarius 2006" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "plethodon caddoensis county:&#34;polk&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "OMNH Ahaetulla Aurora" ; Times: 1
+	Query: "Leopardus pardalis 1998" ; Times: 1
+	Query: "Geomys bursarius 2004" ; Times: 1
+	Query: "copperhead year &gt;= 2016 year &lt;= 2019" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "specificepithet:vermis genus:carphophis catalognumber:9902" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "bush dog" ; Times: 2
+	Query: "invasive species" ; Times: 1
+	Query: "Rattus norvegicus 2013" ; Times: 1
+	Query: "Rattus norvegicus 2012" ; Times: 1
+	Query: "Rattus norvegicus 2010" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "Microtus ochrogaster 1996" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Reithrodontomys megalotis 2004" ; Times: 1
+	Query: "Reithrodontomys megalotis 2006" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "Sistrurus catenatus 2005" ; Times: 1
+	Query: "Sistrurus catenatus 2006" ; Times: 1
+	Query: "Sistrurus catenatus 2007" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "omnh 8648" ; Times: 1
+	Query: "specificepithet:cinereoargenteus family:Canidae (zoo)" ; Times: 1
+	Query: "genus:Rhinella specificepithet:arenarum" ; Times: 1
+	Query: "Timber Rattlesnake" ; Times: 1
+	Query: "Mus musculus 1988" ; Times: 2
+	Query: "institutioncode:omnh ocgr 1554" ; Times: 1
+	Query: "Scotobleps gabonicus mappable:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 4
+	Query: "OCGR 986" ; Times: 3
+	Query: "vampire" ; Times: 1
+	Query: "hemidactylium county:&#34;polk&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "cape disappointment" ; Times: 1
+	Query: "lithobates berlandieri" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Pulchrana grandocula" ; Times: 1
+	Query: "Ptyas Camarines Norte" ; Times: 1
+	Query: "institutioncode:omnh ocgr 1672" ; Times: 1
+	Query: "Mus musculus 2006" ; Times: 2
+	Query: "genus:Crotalus class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Mus musculus 2004" ; Times: 2
+	Query: "Mus musculus 2001" ; Times: 2
+	Query: "specificepithet:hernandesi genus:phrynosoma hastissue:1" ; Times: 1
+	Query: "Mus musculus 2009" ; Times: 2
+	Query: "Mus musculus 2008" ; Times: 2
+	Query: "Sistrurus catenatus 2017" ; Times: 1
+	Query: "Sistrurus catenatus 2013" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Oklahoma&#34; year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "streckeri Pseudacris" ; Times: 2
+	Query: "big brown bat" ; Times: 5
+	Query: "dasypus novemcinctus" ; Times: 2
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "11893" ; Times: 3
+	Query: "spiny softshell" ; Times: 1
+	Query: "genus:blarina county:&#34;carroll&#34; stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "Dipodomys ordii 2012" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:6985" ; Times: 1
+	Query: "genus:Notiosorex county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Storeria dekayi hastissue:1" ; Times: 1
+	Query: "carphophis vermis" ; Times: 1
+	Query: "OMNH Philippines Serpentes" ; Times: 1
+	Query: "Dipodomys ordii 2011" ; Times: 1
+	Query: "Cyclocorus Camarines" ; Times: 1
+	Query: "Boiga Camarines Norte" ; Times: 1
+	Query: "Geomys bursarius 2008" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 1
+	Query: "Mus musculus 2010" ; Times: 4
+	Query: "Mus musculus 2011" ; Times: 2
+	Query: "Boiga Philippines" ; Times: 1
+	Query: "Mus musculus 2013" ; Times: 3
+	Query: "Barangay Mariroc" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "Mus musculus 2017" ; Times: 2
+	Query: "bats" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "gray fox" ; Times: 19
+	Query: "institutioncode:omnh ocgr 3916" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 4
+	Query: "Onychomys leucogaster 2017" ; Times: 1
+	Query: "Onychomys leucogaster 2010" ; Times: 2
+	Query: "Onychomys leucogaster 2011" ; Times: 1
+	Query: "Onychomys leucogaster 2012" ; Times: 1
+	Query: "Storeria arkansas year &gt;= 2000 year" ; Times: 1
+	Query: "Alsodes" ; Times: 1
+	Query: "Chaetodipus hispidus 1996" ; Times: 1
+	Query: "genus:Coluber class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Lycodon Camarines Norte" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "genus:Carphophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Armadillo" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 6
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "northern grasshopper mouse vntype:specimen stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "aspidoscelis burti burti" ; Times: 1
+	Query: "Dendrelaphis Albay" ; Times: 1
+	Query: "theloderma" ; Times: 1
+	Query: "Sistrurus catenatus 1995" ; Times: 1
+	Query: "catalognumber:1894 institutioncode:OMNH" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Geomys bursarius 2014" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:6556" ; Times: 1
+	Query: "Dipodomys ordii 2010" ; Times: 2
+	Query: "Geomys bursarius 2017" ; Times: 2
+	Query: "Dipodomys ordii 2016" ; Times: 3
+	Query: "Geomys bursarius 2011" ; Times: 1
+	Query: "Dipodomys ordii 2014" ; Times: 1
+	Query: "Dipodomys ordii 2015" ; Times: 2
+	Query: "Leontopithecus rosalia" ; Times: 2
+	Query: "Ahaetulla Albay" ; Times: 4
+	Query: "genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Barangay Mariroc Serpentes" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Neotoma mexicana 2012" ; Times: 1
+	Query: "Dendrelaphis Aurora Philippines" ; Times: 1
+	Query: "Leopardus pardalis 2011" ; Times: 1
+	Query: "specificepithet:montensis genus:Akodon" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 2
+	Query: "Calamaria Camarines Norte" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 1
+	Query: "Coccyzus americanus 2011" ; Times: 1
+	Query: "Onychomys leucogaster 2002" ; Times: 1
+	Query: "Onychomys leucogaster 2006" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:OMNH" ; Times: 2
+	Query: "Onychomys leucogaster 2004" ; Times: 1
+	Query: "Coccyzus americanus 2009" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Plestiodon laticeps mappable:1" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:12619" ; Times: 1
+	Query: "Chaetodipus hispidus 2014" ; Times: 1
+	Query: "Chrotopterus institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Myotis septentrionalis 2017" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:2607" ; Times: 1
+	Query: "lutreolina" ; Times: 1
+	Query: "genus:odontophrynus hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 2007" ; Times: 1
+	Query: "Chaetodipus hispidus 2012" ; Times: 1
+	Query: "Chaetodipus hispidus 2010" ; Times: 1
+	Query: "ambystoma annulatum county:&#34;polk&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Chaetodipus hispidus 2016" ; Times: 1
+	Query: "Chaetodipus hispidus 2017" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "Chaetodipus hispidus 2015" ; Times: 2
+	Query: "Dipodomys ordii 2004" ; Times: 1
+	Query: "Dipodomys ordii 2007" ; Times: 1
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Dipodomys ordii 2006" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 2
+	Query: "Rattus norvegicus 1988" ; Times: 1
+	Query: "genus:Hemibungarus" ; Times: 1
+	Query: "Plain-bellied water snake" ; Times: 1
+	Query: "attwateri Peromyscus" ; Times: 3
+	Query: "kangaroo rat vntype:specimen stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Cyclocorus Camarines Norte" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "Microtus ochrogaster 2017" ; Times: 4
+	Query: "Massasauga" ; Times: 1
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:2607." ; Times: 1
+	Query: "Leptopelis millsoni" ; Times: 1
+	Query: "genus:Astylosternus hastissue:1" ; Times: 2
+	Query: "Storeria dekayi year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:calligaster genus:Hemibungarus" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "Neotoma mexicana 1973" ; Times: 1
+	Query: "Neotoma mexicana 1972" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Neotoma mexicana 1974" ; Times: 1
+	Query: "OMNH Ptyas Philippines" ; Times: 1
+	Query: "Storeria dekayi Arkansas year &gt;= 2000" ; Times: 1
+	Query: "Geomys institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Ringed Salamander" ; Times: 1
+	Query: "OMNH Lycodon Philippines" ; Times: 1
+	Query: "genus:Urocyon family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "Rattus norvegicus 1991" ; Times: 1
+	Query: "Rattus norvegicus 1990" ; Times: 1
+	Query: "OCGR 1985" ; Times: 2
+	Query: "genus:Ambystoma county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "17684" ; Times: 1
+	Query: "vntype:specimen (DRD) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Storeria dekayi (Missouri OR Arkansas OR Illinois OR Mississippi OR Louisiana) year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "catalognumber:17288 institutioncode:OMNH" ; Times: 1
+	Query: "Geomys bursarius 2010" ; Times: 1
+	Query: "Silver haired bat" ; Times: 4
+	Query: "specificepithet:venaticus family:Canidae" ; Times: 1
+	Query: "Chaetodipus hispidus 2004" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1308 download events in this period)
+Total number of records downloaded: 5046
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 52
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 4
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 8
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-30 ; Times: 4
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-23 ; Times: 16
+	Date: 2019-10-16 ; Times: 10
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-15 ; Times: 8
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "order:Squamata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 3
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "buteo platypterus" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Bufonidae vntype:specimen" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Morelia hastissue:1" ; Times: 1
+	Query: "genus:Opheodrys institutioncode:OMNH" ; Times: 1
+	Query: "family:soricidae" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Oligoryzomys flavescens" ; Times: 2
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Ptychadena perreti" ; Times: 2
+	Query: "Hyperolius guttulatus" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "kangaroo rat vntype:specimen stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:bewickii genus:Thryomanes hastissue:1" ; Times: 2
+	Query: "copperhead year &gt;= 2016 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "northern grasshopper mouse vntype:specimen stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "order:Rodentia county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:Thryomanes country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "Leptopelis millsoni" ; Times: 1
+	Query: "genus:Astylosternus hastissue:1" ; Times: 2
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "genus:Onychomys stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Arthroleptis sylvaticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "astylosternus" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+	Query: "genus:Cryptotis OR Sorex OR Blarina county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
