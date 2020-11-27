@@ -1,0 +1,333 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 345
+Number of records retrieved in searches: 3869
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 91
+	Country: India ; Times: 8
+	Country: United States ; Times: 223
+	Country: Slovenia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Benin ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 11
+	Date: 2019-11-18 ; Times: 18
+	Date: 2019-11-15 ; Times: 80
+	Date: 2019-11-14 ; Times: 8
+	Date: 2019-11-17 ; Times: 4
+	Date: 2019-11-16 ; Times: 28
+	Date: 2019-11-11 ; Times: 15
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-12 ; Times: 9
+	Date: 2019-11-08 ; Times: 21
+	Date: 2019-11-09 ; Times: 18
+	Date: 2019-11-28 ; Times: 4
+	Date: 2019-11-07 ; Times: 33
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 12
+	Date: 2019-11-22 ; Times: 4
+	Date: 2019-11-23 ; Times: 5
+	Date: 2019-11-25 ; Times: 4
+	Date: 2019-11-26 ; Times: 4
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-06 ; Times: 14
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-05 ; Times: 10
+	Date: 2019-11-02 ; Times: 13
+	Date: 2019-11-03 ; Times: 11
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 9
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "Abrocoma cinerea" ; Times: 4
+	Query: "Eligmodontia puerulus" ; Times: 2
+	Query: "specificepithet:davidianus genus:Elaphurus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Gastrophryne county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "Akodon lutescens" ; Times: 2
+	Query: "18819" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "Akodon toba" ; Times: 2
+	Query: "specificepithet:fuscus genus:eptesicus order:chiroptera stateprovince:&#34;tennessee&#34; hastissue:1" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "Graomys domorum" ; Times: 2
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "Myotis septentrionalis 1997" ; Times: 4
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2015 year &lt;= 2018 institutioncode:OMNH hastissue:1" ; Times: 2
+	Query: "45051" ; Times: 1
+	Query: "genus:myotis country:&#34;argentina&#34; hastissue:1" ; Times: 2
+	Query: "Histiotus" ; Times: 4
+	Query: "big free-tailed bat" ; Times: 1
+	Query: "Astylosternus batesi mappable:1" ; Times: 5
+	Query: "Leopardus pardalis 1998" ; Times: 4
+	Query: "specificepithet:viridis genus:crotalus institutioncode:OMNH" ; Times: 1
+	Query: "Leptopelis millsoni mappable:1" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 3
+	Query: "genus:sonora county:&#34;beckham&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Andinomys edax" ; Times: 3
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "genus:Oxyrhabdium preparations:tissue" ; Times: 4
+	Query: "north american river otter" ; Times: 2
+	Query: "Phrynobatrachus africanus mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus county:&#34;beckham&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "genus:Cyclocorus preparations:tissue" ; Times: 1
+	Query: "Neotomys ebriosus" ; Times: 1
+	Query: "genus:myotis continent:South America hastissue:1" ; Times: 1
+	Query: "specificepithet:subflavus genus:perimyotis year &gt;= 2000 year &lt;= 2006" ; Times: 1
+	Query: "chrotopterus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus 2005" ; Times: 4
+	Query: "Sistrurus catenatus 2006" ; Times: 4
+	Query: "Sistrurus catenatus 2007" ; Times: 4
+	Query: "genus:cerberus specificepithet:rynchops institutioncode:pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 1
+	Query: "genus:eptesicus country:&#34;argentina&#34; hastissue:1" ; Times: 1
+	Query: "Milksnake" ; Times: 1
+	Query: "specificepithet:chinchilloides genus:Euneomys" ; Times: 1
+	Query: "family:Elephantidae hastissue:1" ; Times: 2
+	Query: "Scotobleps gabonicus mappable:1" ; Times: 1
+	Query: "Calomys fecundus" ; Times: 2
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:morelia specificepithet:viridis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 2
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Calomys callosus" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "genus:Alsodes specificepithet:gargola" ; Times: 1
+	Query: "Regina grahamii mappable:1" ; Times: 1
+	Query: "Rhipidomys austrinus" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 2
+	Query: "AK14236" ; Times: 1
+	Query: "Varanus olivaceus" ; Times: 2
+	Query: "(myotis septentrionalis) institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 4
+	Query: "specificepithet:subflavus genus:perimyotis hastissue:1" ; Times: 1
+	Query: "Pseudacris fouquettei OMNH" ; Times: 1
+	Query: "Silver-haired bat" ; Times: 2
+	Query: "Sistrurus catenatus 2013" ; Times: 4
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Argentina&#34; hastissue:1" ; Times: 1
+	Query: "Oligoryzomys destructor" ; Times: 2
+	Query: "Amietophrynus gracilipes mappable:1" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis year &gt;= 2009 year &lt;= 2019" ; Times: 1
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Calomys boliviae" ; Times: 3
+	Query: "specificepithet:debilis genus:anaxyrus county:&#34;beckham&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Regina rigida mappable:1" ; Times: 1
+	Query: "Lagostomus maximus" ; Times: 1
+	Query: "Brucepattersonius paradisus" ; Times: 3
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Amnirana albolabris mappable:1" ; Times: 3
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Nectomys squamipes" ; Times: 1
+	Query: "Cardioglossa gracilis mappable:1" ; Times: 3
+	Query: "indigo x" ; Times: 1
+	Query: "Conraua crassipes mappable:1" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 4
+	Query: "Brucepattersonius misionensis" ; Times: 3
+	Query: "Leptopelis ocellatus mappable:1" ; Times: 5
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Oligoryzomys chacoensis" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 2
+	Query: "genus:Gastrophryne county:&#34;beckham&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "Fox squirrel" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Oxymycterus quaestor" ; Times: 1
+	Query: "indigo bunting x" ; Times: 1
+	Query: "specificepithet:debilis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Galea leucoblephara" ; Times: 2
+	Query: "Akodon varius" ; Times: 2
+	Query: "Acris blanchardi OMNH" ; Times: 1
+	Query: "specificepithet:calligaster genus:Hemibungarus institutioncode:OMNH" ; Times: 1
+	Query: "Sciurus pucheranii" ; Times: 2
+	Query: "Thaptomys nigrita" ; Times: 1
+	Query: "Sistrurus miliarius streckeri" ; Times: 2
+	Query: "Galea musteloides" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "Sistrurus catenatus 1995" ; Times: 4
+	Query: "genus:Urocyon stateprovince:&#34;Oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "Arthroleptis sylvaticus mappable:1" ; Times: 4
+	Query: "Amnirana lepus mappable:1" ; Times: 1
+	Query: "northern leopard frog montana" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "Amnirana amnicola mappable:1" ; Times: 1
+	Query: "Necromys lactens" ; Times: 1
+	Query: "massasauga" ; Times: 1
+	Query: "green toad" ; Times: 1
+	Query: "vntype:specimen country:&#34;Philippines&#34; (Lepidodactylus)" ; Times: 1
+	Query: "Leopardus pardalis 2011" ; Times: 4
+	Query: "Antrostomus carolinensis year &gt; 1990" ; Times: 1
+	Query: "genus:lasiurus country:&#34;argentina&#34; hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 4
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 8
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "Coccyzus americanus 2010" ; Times: 4
+	Query: "Coccyzus americanus 2011" ; Times: 4
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:OMNH" ; Times: 6
+	Query: "Coccyzus americanus 2009" ; Times: 4
+	Query: "black-tailed rattlesnake" ; Times: 1
+	Query: "Pseudoryzomys simplex" ; Times: 1
+	Query: "Myotis septentrionalis 2017" ; Times: 4
+	Query: "Chiromantis rufescens mappable:1" ; Times: 1
+	Query: "Elephant Maximus" ; Times: 3
+	Query: "Brucepattersonius guarani" ; Times: 3
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "Sciurus ignitus" ; Times: 2
+	Query: "specificepithet:fuscus genus:eptesicus order:chiroptera institutioncode:OMNH hastissue:1" ; Times: 2
+	Query: "specificepithet:subflavus genus:perimyotis year &gt;= 2000 year &lt;= 2006 hastissue:1" ; Times: 1
+	Query: "Abrothrix andinus" ; Times: 4
+	Query: "Calomys lepidus" ; Times: 1
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "Akodon albiventer" ; Times: 2
+	Query: "OMNH 10431" ; Times: 1
+	Query: "(Pygoderma) institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Euryoryzomys legatus" ; Times: 2
+	Query: "Gastrophryne carolinensis OMNH" ; Times: 1
+	Query: "Oxymycterus rufus" ; Times: 1
+	Query: "Calomys sorellus" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "(Chrotopterus) institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Massasauga" ; Times: 8
+	Query: "genus:Lampropeltis class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Sooretamys angouya" ; Times: 1
+	Query: "white-breasted nuthatch hastissue:1" ; Times: 1
+	Query: "Delomys dorsalis" ; Times: 2
+	Query: "genus:cerberus specificepithet:rynchops institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Oxymycterus paramensis" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Dolichotis salinicola" ; Times: 2
+	Query: "genus:Psammodynastes preparations:tissue" ; Times: 2
+	Query: "specificepithet:maculatum genus:ambystoma hastissue:1" ; Times: 1
+	Query: "specificepithet:marcianus genus:thamnophis county:&#34;beckham&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "arizona toad" ; Times: 1
+	Query: "(Myotis septentrionalis) institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Castor canadensis hastissue:1" ; Times: 3
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "armadillo" ; Times: 2
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "Hyla cinerea OMNH" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1367 download events in this period)
+Total number of records downloaded: 1454
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 57
+	Country: Belgium ; Times: 1
+	Country: Benin ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 8
+	Date: 2019-11-08 ; Times: 7
+	Date: 2019-11-06 ; Times: 11
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-05 ; Times: 8
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-28 ; Times: 4
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oxyrhabdium preparations:tissue" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "vntype:specimen order:Caudata lifestage:egg" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Abrothrix" ; Times: 1
+	Query: "Liolaemus pictus" ; Times: 2
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "specificepithet:chinchilloides genus:Euneomys" ; Times: 1
+	Query: "family:Elephantidae hastissue:1" ; Times: 3
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "Red Panda" ; Times: 2
+	Query: "specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:pictus genus:Liolaemus" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:morelia specificepithet:viridis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:debilis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "specificepithet:gliroides genus:Dromiciops" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 2
+	Query: "Staurois natator" ; Times: 1
+	Query: "specificepithet:valdivianus genus:Geoxus" ; Times: 1
+	Query: "specificepithet:speciosus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2015 year &lt;= 2018 institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Varanus olivaceus" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "order:Apodiformes" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma hastissue:1" ; Times: 1
+	Query: "genus:cerberus specificepithet:rynchops institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Argentina&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "genus:Vulpes family:Canidae class:Mammalia hastissue:1" ; Times: 1
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 5
+	Query: "vntype:specimen family:Muridae class:Mammalia hastissue:1" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:OMNH" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+
+
+End of report.
