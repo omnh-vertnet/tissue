@@ -1,0 +1,283 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 1239
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: Australia ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Philippines ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 80
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 5
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-28 ; Times: 4
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 29
+	Date: 2020-05-11 ; Times: 26
+	Date: 2020-05-12 ; Times: 21
+	Date: 2020-05-13 ; Times: 3
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-09 ; Times: 11
+	Date: 2020-05-08 ; Times: 13
+	Date: 2020-05-07 ; Times: 12
+	Date: 2020-05-06 ; Times: 10
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 3
+	Date: 2020-05-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "34415" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Atoka&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Echinotriton" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Cherokee&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Cherokee&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ACRANTOPHIS" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Latimer&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 4
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Atoka&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Osage&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Le Flore&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Roger Mills&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Marshall&#34; stateprovince:&#34;Oklahoma&#34; year &gt;= 2016 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platymantis mimulus" ; Times: 1
+	Query: "338429" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Johnston&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Marshall&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "lama guanicoe" ; Times: 1
+	Query: "Pseudacris crucifer OMNH Oklahoma" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "OMNH Pseudacris crucifer" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Okmulgee&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Blaine&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Marshall&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Polk&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Platymantis luzonensis" ; Times: 1
+	Query: "guanaco" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Muskogee&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Pushmataha&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudacris crucifer OMNH OKLAHOMA" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "southern yellow bat" ; Times: 1
+	Query: "Plestiodon laticeps" ; Times: 1
+	Query: "Crotalus county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "genus:conraua hastissue:1" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Ellis&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "prosopis" ; Times: 1
+	Query: "American Kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Nowata&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cherokee&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;genomic&#34; specificepithet:cooperii genus:Accipiter institutioncode:OMNH" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Montgomery&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Dewey&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34; year &gt;= 2015 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 7
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Museum of Biological Diversity" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Le Flore&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Roger Mills&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Scott&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Calamaria hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Latimer&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis institutioncode:OMNH" ; Times: 1
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Atoka&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "copperhead data" ; Times: 2
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "OMNH Lithobates palustris" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Le Flore&#34; stateprovince:&#34;Oklahoma&#34; year &gt;= 2013 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Montgomery&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Muskogee&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Beckham&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Armadillo" ; Times: 2
+	Query: "Plestiodon fasciatus" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Cherokee&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Muskogee&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Glyptemys insculpta hastissue:1" ; Times: 1
+	Query: "OMNH Pseudacris maculata" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Latimer&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Deinagkistrodon acutus" ; Times: 1
+	Query: "Homonota darwinii" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Comanche&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "zigzag salamander" ; Times: 1
+	Query: "gbifdatasetid:71e82020-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "pantherophis obsoletus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Beckham&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 2
+	Query: "boa dumerili" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Le Flore&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Mayes&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Marshall&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Polk&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Pushmataha&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "chicken turtle" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Sequoyah&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 2
+	Query: "plestiodon anthracinus anthracinus" ; Times: 1
+	Query: "apsu" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Sequoyah&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Hughes&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Atoka&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1106 download events in this period)
+Total number of records downloaded: 2533
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Australia ; Times: 6
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 10
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-23 ; Times: 6
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 5
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 4
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-05 ; Times: 8
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 2
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Echinotriton" ; Times: 3
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "american kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "spotted frog" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Limnonectes" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "genus:Thryomanes class:Aves hastissue:1" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Tylototriton" ; Times: 1
+	Query: "Deinagkistrodon acutus" ; Times: 1
+	Query: "Homonota darwinii" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "Stegonotus" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
