@@ -1,0 +1,276 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 1099
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 104
+	Country: Netherlands ; Times: 1
+	Country: Samoa ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 15
+	Country: Philippines ; Times: 2
+	Country: Uruguay ; Times: 2
+	Country: United Kingdom ; Times: 13
+	Country: Austria ; Times: 2
+	Country: Ecuador ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 15
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 9
+	Date: 2020-10-08 ; Times: 12
+	Date: 2020-10-12 ; Times: 10
+	Date: 2020-10-13 ; Times: 29
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 4
+	Date: 2020-10-17 ; Times: 3
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-03 ; Times: 3
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-22 ; Times: 3
+	Date: 2020-10-21 ; Times: 13
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-25 ; Times: 8
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-30 ; Times: 15
+	Date: 2020-10-29 ; Times: 6
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 21
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-07 ; Times: 5
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Stegonotus muelleri" ; Times: 3
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 2
+	Query: "genus:Sanguirana specificepithet:tipanan" ; Times: 1
+	Query: "north American porcupine" ; Times: 1
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "OMNH Pseudacris crucifer" ; Times: 1
+	Query: "Rhinella arenarum" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "LYCALOPEX CULPAEUS" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Pseudogekko chavacano" ; Times: 1
+	Query: "North American Black Bear" ; Times: 3
+	Query: "Procyon lotor year &gt;= 2010 year &lt;= 2020 hastissue:1" ; Times: 4
+	Query: "specificepithet:caerulescens genus:Setophaga class:Aves hastissue:1" ; Times: 3
+	Query: "Histiotus macrotus" ; Times: 1
+	Query: "specificepithet:cinerea stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "crawfish frog" ; Times: 3
+	Query: "OMNH 15347" ; Times: 2
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Cervus nippon" ; Times: 2
+	Query: "evolution" ; Times: 1
+	Query: "Anaxyrus americanus OMNH" ; Times: 2
+	Query: "OMNH 36220" ; Times: 3
+	Query: "genus: Tachymenis hastissue:1" ; Times: 3
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Oklahoma&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Notiosorex cockrumi" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 13
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "genus: diadophis hastissue:1" ; Times: 1
+	Query: "scientificname:Lynx lynx" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "genus:Hemibungarus hastissue:1" ; Times: 1
+	Query: "Flying squirrel" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "genus: tachymenis hastissue:1" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Melanerpes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "OMNH 4921" ; Times: 1
+	Query: "23783" ; Times: 2
+	Query: "Anaxyrus americanus OMNH Cleveland County" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "genus:Lutreolina hastissue:1" ; Times: 2
+	Query: "Castor canadensis" ; Times: 1
+	Query: "genus:Leopardus " ; Times: 1
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:OMNH" ; Times: 1
+	Query: "flying squirrel" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "36220" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "Diadophis punctatus institutioncode:OMNH hastissue:1" ; Times: 2
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 8
+	Query: "Branta canadensis" ; Times: 1
+	Query: "OMNH 23783" ; Times: 1
+	Query: "scientificname:(Chrosomus erythrogaster OR Phoxinus erythrogaster) country:United States mappable:1" ; Times: 2
+	Query: "Mammalia vntype:specimen catalognumber:1982" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 8
+	Query: "mappable:1 scientificname:Clelia clelia" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:pardalis" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "Smooth softshell" ; Times: 1
+	Query: "abrawayaomys" ; Times: 1
+	Query: "OMNH Pseudacris crucifer Oklahoma" ; Times: 1
+	Query: "Neotoma stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Cerberus hastissue:1" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "North American black bear" ; Times: 1
+	Query: "genus:Trachemys hastissue:1" ; Times: 6
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "specificepithet:niger genus: Hippotragus" ; Times: 1
+	Query: "mappable:1 scientificname:Philodryas patagoniensis" ; Times: 1
+	Query: "ornate box turtle" ; Times: 1
+	Query: "neotomys" ; Times: 1
+	Query: "specificepithet:scandiacus genus:Bubo hastissue:1" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 6
+	Query: "catenatus" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 4
+	Query: "scientificname:Anser cygnoides" ; Times: 1
+	Query: "Pseudacris crucifer OMNH" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "north american black bear" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "12803" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:4881 institutioncode:OMNH" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 3
+	Query: "LAMA GUANICOE" ; Times: 1
+	Query: "genus: carphophis hastissue:1" ; Times: 2
+	Query: "genus:Echinotriton specificepithet:andersoni" ; Times: 1
+	Query: "southern flying squirrel" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 1521 download events in this period)
+Total number of records downloaded: 10886
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 62
+	Country: Samoa ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 6
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-16 ; Times: 3
+	Date: 2020-10-31 ; Times: 3
+	Date: 2020-10-14 ; Times: 16
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-23 ; Times: 5
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-30 ; Times: 3
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-05 ; Times: 8
+	Date: 2020-10-17 ; Times: 2
+	Date: 2020-10-06 ; Times: 4
+	Date: 2020-10-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:OMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "spea multiplicata" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "family:elephantidae" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:niger genus:hippotragus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "genus:thryomanes hastissue:1" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+	Query: "Pseudogekko chavacano" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "Blarina carolinensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "LAMA GUANICOE" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Procyon lotor year &gt;= 2010 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "specificepithet:audubonii genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Calcariidae hastissue:1" ; Times: 1
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "Notiosorex cockrumi" ; Times: 1
+	Query: "family:Odontophoridae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "vntype:specimen family:Lybiidae" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "abrawayaomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "Hylarana" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+
+
+End of report.
