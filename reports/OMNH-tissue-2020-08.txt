@@ -1,0 +1,217 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 669
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 61
+	Country: Peru ; Times: 7
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Philippines ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: Sweden ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 3
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 5
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-15 ; Times: 4
+	Date: 2020-08-14 ; Times: 5
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 6
+	Date: 2020-08-10 ; Times: 4
+	Date: 2020-08-31 ; Times: 6
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-18 ; Times: 3
+	Date: 2020-08-27 ; Times: 6
+	Date: 2020-08-01 ; Times: 4
+	Date: 2020-08-03 ; Times: 3
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 6
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-20 ; Times: 9
+	Date: 2020-08-21 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "OMNH 9428" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "pygmy rattlesnake" ; Times: 1
+	Query: "OMNH Scaphiopus couchii" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "common snapping turtle" ; Times: 1
+	Query: "specificepithet:radix genus:thamnophis hassex:1 hastissue:1" ; Times: 1
+	Query: "Rabor OMNH" ; Times: 1
+	Query: "genus:Lepus institutioncode:OMNH hastissue:1" ; Times: 2
+	Query: "family:Trochilidae institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Anaxyrus americanus OMNH" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "genus:Sylvilagus country:&#34;United States&#34; institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "Rodent" ; Times: 2
+	Query: "F. domesticus" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1975 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus" ; Times: 1
+	Query: "pantherophis" ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "OMNH 11409" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "genus:lepus institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "specificepithet:laticeps genus:Plestiodon" ; Times: 1
+	Query: "farancia" ; Times: 1
+	Query: "mappable:1 scientificname:Hemidactylus turcicus" ; Times: 1
+	Query: "scientificname:Ophiophagus hannah" ; Times: 1
+	Query: "Chrysopelea paradisi paradisi" ; Times: 1
+	Query: "Crossoptilon harmani" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "catalognumber:5537 institutioncode:OMNH" ; Times: 4
+	Query: "Lycaon pictus hastissue:1" ; Times: 1
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:OMNH" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "Rodent Bolivia" ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "genus:urocyon hastissue:1" ; Times: 2
+	Query: "bats" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "genus:Lepus country:&#34;United States&#34; institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Sciurus pucheranii" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "genus:Sylvilagus institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "omnh 15012" ; Times: 1
+	Query: "american toad" ; Times: 6
+	Query: "massasauga" ; Times: 1
+	Query: "Melopsittacus undulatus vntype:specimen hassex:1 hastissue:1" ; Times: 1
+	Query: "Myersophis" ; Times: 1
+	Query: "Mountain garter snake" ; Times: 3
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Sciurus ignitus" ; Times: 1
+	Query: "genus:lepus institutioncode:OMNH" ; Times: 1
+	Query: "Texas specificepithet:spinifera genus:Apalone" ; Times: 1
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "LASIURUS EGA" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Oxyrhabdium leporinum" ; Times: 1
+	Query: "SAM 600" ; Times: 1
+	Query: "specificepithet:californicus stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "OMNH 11452" ; Times: 1
+	Query: "genus:Cyrtodactylus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "family:Colubridae locality:Chiricahua county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Agkistrodon institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "SAM 598" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "mappable:1 scientificname:Pseudemys concinna" ; Times: 1
+	Query: "Odontophrynus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 756 download events in this period)
+Total number of records downloaded: 2442
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-27 ; Times: 5
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-29 ; Times: 4
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "order:Squamata" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "Texas specificepithet:spinifera genus:Apalone" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "red panda" ; Times: 1
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "specificepithet:radix genus:thamnophis hassex:1 hastissue:1" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "specificepithet:laticeps genus:Plestiodon" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "Agkistrodon institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+
+
+End of report.
