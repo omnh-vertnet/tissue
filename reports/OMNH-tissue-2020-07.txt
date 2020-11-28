@@ -1,0 +1,300 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 6359
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 7
+	Country: Ireland ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 9
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 22
+	Country: Philippines ; Times: 17
+	Country: United States ; Times: 123
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Ecuador ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 12
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 24
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-01 ; Times: 5
+	Date: 2020-07-03 ; Times: 18
+	Date: 2020-07-02 ; Times: 10
+	Date: 2020-07-05 ; Times: 4
+	Date: 2020-07-04 ; Times: 4
+	Date: 2020-07-07 ; Times: 22
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-24 ; Times: 5
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-29 ; Times: 33
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-16 ; Times: 6
+	Date: 2020-07-31 ; Times: 5
+	Date: 2020-07-14 ; Times: 5
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 8
+	Date: 2020-07-30 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "Afrixalus paradorsalis mappable:1" ; Times: 1
+	Query: "varanus vntype:specimen hastissue:1" ; Times: 1
+	Query: "OMNH Conepatus" ; Times: 2
+	Query: "Clelia clelia" ; Times: 3
+	Query: "Artibeus lituratus (Great fruit-eating bat)" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "vntype:specimen specificepithet:marina genus:Rhinella family:Bufonidae order:anura class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cyrtodactylus annulatus ku" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis institutioncode:OMNH" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "Rabor specimens" ; Times: 4
+	Query: "Eurycea longicauda" ; Times: 3
+	Query: "specificepithet:marina genus:Rhinella family:Bufonidae order:anura class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "regina grahamii" ; Times: 9
+	Query: "Conepatus" ; Times: 1
+	Query: "Eurycea spelaea" ; Times: 2
+	Query: "Lycalopex griseus" ; Times: 1
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 1
+	Query: "Otosaurus cumingi OMNH" ; Times: 1
+	Query: "genus:Microcavia" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Sonora institutioncode:OMNH" ; Times: 3
+	Query: "45055" ; Times: 1
+	Query: "KU 7868" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 2
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "13222" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 5
+	Query: "Pseudacris maculata OMNH" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "vntype:specimen genus:Mephitis hastissue:1" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "invasive species" ; Times: 2
+	Query: "Hyperolius guttulatus mappable:1" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-102.01171874999999))&lt;4077596" ; Times: 1
+	Query: "genus:Neovison hastissue:1" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 2
+	Query: "Eurycea lucifuga" ; Times: 2
+	Query: "Plethodon fourchensis" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "Crossoptilon harmani vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "OMNH 1592 Conepatus" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "omnh sceloporus" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-88.65234375))&lt;3923916" ; Times: 1
+	Query: "silver haired bat" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "lithobates clamitans OMNH" ; Times: 3
+	Query: "specificepithet:mississippiensis genus:alligator stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 1
+	Query: "red spotted toad" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus hastissue:1" ; Times: 1
+	Query: "OMNH 1460" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:areolatus class:Amphibia country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella family:Bufonidae class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Natricidae" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34; year &gt;= 2000" ; Times: 1
+	Query: "OMNH 35918" ; Times: 1
+	Query: "OMNH 35919" ; Times: 5
+	Query: "OMNH 1592" ; Times: 1
+	Query: "genus:Mephitis hastissue:1" ; Times: 1
+	Query: "genus:Conepatus institutioncode:OMNH" ; Times: 1
+	Query: "M-16350" ; Times: 2
+	Query: "vntype:specimen genus:Conepatus hastissue:1" ; Times: 1
+	Query: "OMNH 3839" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 4
+	Query: "western toad" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "OMNH 4025" ; Times: 3
+	Query: "KU 14052" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella family:Bufonidae class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 2
+	Query: "Lithobates sphenocephalus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "neotoma floridana" ; Times: 2
+	Query: "Arthroleptis sylvaticus mappable:1" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 2
+	Query: "Plethodon albagula" ; Times: 3
+	Query: "California tiger salamander" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Plethodon kiamichi" ; Times: 2
+	Query: "miliarius oklahoma" ; Times: 1
+	Query: "Hyperolius tuberculatus mappable:1" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "promops nasutus" ; Times: 3
+	Query: "stateprovince:&#34;samar&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Otosaurus cumingi" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "OMNH 2328" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis county:&#34;Atoka&#34; stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:rynchops genus:cerberus hastissue:1" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 2
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Cyrtodactylus philippinicus" ; Times: 1
+	Query: "OMNH 35923" ; Times: 2
+	Query: "Phlyctimantis leonardi mappable:1" ; Times: 1
+	Query: "Cryptothylax greshoffii mappable:1" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "Conepatus chinga OMNH" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 2
+	Query: "OMNH Anaxyrus fowleri" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "vntype:specimen specificepithet:marina genus:Rhinella family:Bufonidae order:anura class:Amphibia stateprovince:&#34;Camarines Norte&#34; country:&#34;Philippines&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:fowleri genus:Anaxyrus hastissue:1" ; Times: 1
+	Query: "chilabothrus angulifer" ; Times: 1
+	Query: "Pseudacris crucifer OMNH" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "Camarines Norte" ; Times: 2
+	Query: "specificepithet:constrictor genus:coluber hastissue:1" ; Times: 1
+	Query: "Massasauga" ; Times: 2
+	Query: "genus:Akodon" ; Times: 9
+	Query: "KU 14223" ; Times: 2
+	Query: "KU 14222" ; Times: 2
+	Query: "genus:salvadora hastissue:1" ; Times: 2
+	Query: "rough green snake" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Plethodon serratus" ; Times: 3
+	Query: "Eurycea tynerensis" ; Times: 2
+	Query: "Lithobates sphenocephalus OMNH" ; Times: 2
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "AK13014" ; Times: 1
+	Query: "genus:Oligoryzomys" ; Times: 6
+	Query: "Anaxyrus americanus OMNH" ; Times: 1
+	Query: "Rabor KU" ; Times: 2
+	Query: "locality:shady valley county:&#34;johnson&#34; stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Lithobates sphenocephalus OMNH 4868" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 940 download events in this period)
+Total number of records downloaded: 4818
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 29
+	Country: Sweden ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 3
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 7
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Crossoptilon harmani vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "elapidae" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Lycalopex griseus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "promops nasutus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "class:mammalia county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "Natricidae" ; Times: 1
+	Query: "Lamprophiidae" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Phyllostomidae vntype:specimen year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "dromiciops" ; Times: 1
+	Query: "specificepithet:andersoni family:Salamandridae" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "genus:Conepatus institutioncode:OMNH" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "vntype:specimen genus:Conepatus hastissue:1" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Rabor KU" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
