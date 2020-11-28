@@ -1,0 +1,332 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 1993
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: DR Congo ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 7
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Switzerland ; Times: 5
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: United States ; Times: 208
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 6
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 13
+	Date: 2020-09-02 ; Times: 10
+	Date: 2020-09-01 ; Times: 8
+	Date: 2020-09-07 ; Times: 15
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-05 ; Times: 6
+	Date: 2020-09-04 ; Times: 12
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 13
+	Date: 2020-09-22 ; Times: 11
+	Date: 2020-09-25 ; Times: 10
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-27 ; Times: 11
+	Date: 2020-09-26 ; Times: 4
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-16 ; Times: 13
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 4
+	Date: 2020-09-17 ; Times: 14
+	Date: 2020-09-10 ; Times: 36
+	Date: 2020-09-11 ; Times: 21
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 25
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "&#34;Calamaria&#34; Labo Philippines CDS 7669" ; Times: 1
+	Query: "Cyclocorus CDS 7760" ; Times: 1
+	Query: "Cyclocorus OCGR Albay" ; Times: 2
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "NAH 8 Ptyas" ; Times: 1
+	Query: "tropidophorus partelloi" ; Times: 1
+	Query: "genus:Terrapene hastissue:1" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "specificepithet:chinga genus:Conepatus hastissue:1" ; Times: 2
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "genus:Lontra hastissue:1" ; Times: 1
+	Query: "Ptyas Albay" ; Times: 1
+	Query: "tropidophorus partelloi omnh" ; Times: 1
+	Query: "Cyclocorus DRD 2627" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Tympanuchus cupido hastissue:1" ; Times: 1
+	Query: "Dendrelaphis CDS 8920" ; Times: 1
+	Query: "Serpentes OCGR Albay" ; Times: 1
+	Query: "Opheodrys hastissue:1" ; Times: 1
+	Query: "Ahaetulla CDS 7878" ; Times: 1
+	Query: "vntype:specimen specificepithet:davidianus genus:Elaphurus" ; Times: 1
+	Query: "Calamaria Albay" ; Times: 1
+	Query: "class:Aves recordedby:Matthews" ; Times: 1
+	Query: "Calamaria OCGR Albay" ; Times: 1
+	Query: "277 specificepithet:niger genus:sciurus" ; Times: 1
+	Query: "CDS 7759" ; Times: 2
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "OCGR Calamaria Camarines Norte" ; Times: 1
+	Query: "catalognumber:15075 institutioncode:OMNH" ; Times: 1
+	Query: "Oxyrhabdium OCGR" ; Times: 4
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "hemidactylus hassex:1 hastissue:1" ; Times: 1
+	Query: "Cyclocorus CDS 7758" ; Times: 1
+	Query: "Limnonectes woodworthi" ; Times: 2
+	Query: "specificepithet:ouachitensis genus:Graptemys hastissue:1" ; Times: 2
+	Query: "27933" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 5
+	Query: "Cyclocorus OCGR" ; Times: 2
+	Query: "&#34;Calamaria&#34; Labo Philippines" ; Times: 1
+	Query: "pseudogekko ku" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "genus:Leptailurus hastissue:1" ; Times: 1
+	Query: "institutioncode:OMNH japalura" ; Times: 1
+	Query: "Boiga OCGR" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus county:&#34;cotton&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;oklahoma&#34; catalognumber:5339" ; Times: 1
+	Query: "23496 omnh" ; Times: 1
+	Query: "rhabdophis philippines" ; Times: 1
+	Query: "red panda" ; Times: 5
+	Query: "&#34;Ahaetulla prasina&#34; Albay Philippines" ; Times: 1
+	Query: "institutioncode:OMNH Boiga" ; Times: 1
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 1
+	Query: "genus:Tremarctos hastissue:1" ; Times: 1
+	Query: "Lithobates sphenocephalus cherokee" ; Times: 1
+	Query: "hemidactylus mabouia hastissue:1" ; Times: 1
+	Query: "Flying squirrel" ; Times: 1
+	Query: "Nerodia rhombifer rhombifer" ; Times: 1
+	Query: "ESF 148" ; Times: 2
+	Query: "sistrurus" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "genus:Terrapene continent:North America hastissue:1" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "vntype:specimen genus:Terrapene continent:North America hastissue:1" ; Times: 4
+	Query: "&#34;Calamaria&#34; Labo Philippines ESF 212" ; Times: 1
+	Query: "order:Primates institutioncode:OMNH" ; Times: 1
+	Query: "genus:Conepatus hastissue:1" ; Times: 4
+	Query: "Pantherophis obsoletus" ; Times: 2
+	Query: "institutioncode:OMNH Viperidae Philippines" ; Times: 1
+	Query: "genus:Dusicyon hastissue:1" ; Times: 1
+	Query: "genus:elaphurus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hemidactylus mabouia hassex:1 hastissue:1" ; Times: 1
+	Query: "sphenomorphus fasciatus ku" ; Times: 1
+	Query: "16952" ; Times: 1
+	Query: "Cyclocorus CDS 7559" ; Times: 1
+	Query: "Dendrelaphis DRD 2590" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "Copperhead Data" ; Times: 2
+	Query: "genus:Acris specificepithet:blanchardi" ; Times: 1
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:OMNH" ; Times: 2
+	Query: "16649" ; Times: 1
+	Query: "Ahaetulla OCGR" ; Times: 3
+	Query: "Dendrelaphis luzonensis" ; Times: 1
+	Query: "parvoscincus ku" ; Times: 3
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:dendrophila genus:boiga hastissue:1" ; Times: 2
+	Query: "eutropis indeprensa omnh" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "harpy eagle" ; Times: 1
+	Query: "lipinia pulchella ku" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 6
+	Query: "California Tiger Salamander" ; Times: 1
+	Query: "pseudogekko omnh" ; Times: 1
+	Query: "Reptilia OCGR Albay" ; Times: 1
+	Query: "genus:Prionailurus hastissue:1" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias stateprovince:&#34;georgia&#34; year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "Colubridae OCGR Albay" ; Times: 1
+	Query: "institutioncode:OMNH Colubridae Philippines" ; Times: 2
+	Query: "genus:Rhabdophis hastissue:1" ; Times: 3
+	Query: "&#34;Cyclocorus&#34; Philippines CDS 8361" ; Times: 1
+	Query: "genus:cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "institutioncode:OMNH Lampropeltis" ; Times: 1
+	Query: "eutropis ku" ; Times: 1
+	Query: "genus:cerberus order:Squamata" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "pinoyscincus ku" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "hemidactylus platyurus ku" ; Times: 1
+	Query: "specificepithet:concinna genus:Pseudemys hastissue:1" ; Times: 2
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus county:&#34;cotton&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "&#34;Cyclocorus&#34; Philippines CDS 8450" ; Times: 1
+	Query: "x warbler" ; Times: 2
+	Query: "genus:Leopardus hastissue:1" ; Times: 1
+	Query: "Ptyas OCGR" ; Times: 1
+	Query: "OMNH Pseudacris maculata" ; Times: 1
+	Query: "277 specificepithet:niger genus:sciurus year &gt;= 1970 year &lt;= 2010" ; Times: 1
+	Query: "massasauga" ; Times: 2
+	Query: "genus:Phoca hastissue:1" ; Times: 1
+	Query: "lipinia ku" ; Times: 1
+	Query: "Dendrelaphis DRD 2578" ; Times: 1
+	Query: "amnirana albolabris" ; Times: 1
+	Query: "Cyclocorus CDS 7558" ; Times: 1
+	Query: "Ptyas luzonensis" ; Times: 1
+	Query: "OCGR Dendrelaphis Aurora" ; Times: 1
+	Query: "23790 OMNH" ; Times: 1
+	Query: "OCGR Boiga" ; Times: 1
+	Query: "DRD 2631" ; Times: 2
+	Query: "calomys fecundus" ; Times: 2
+	Query: "&#34;Ahaetulla&#34; Philippines NAH 59" ; Times: 1
+	Query: "brachymeles bonitae" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "CDS 8877" ; Times: 2
+	Query: "iglesia" ; Times: 1
+	Query: "genus:Lycalopex hastissue:1" ; Times: 1
+	Query: "neotomys" ; Times: 4
+	Query: "galea" ; Times: 1
+	Query: "27933 omnh" ; Times: 1
+	Query: "Lycodon OCGR" ; Times: 4
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "Dendrelaphis OCGR" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "eutropis multifasciata ku" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 8
+	Query: "swift fox" ; Times: 2
+	Query: "32708" ; Times: 3
+	Query: "Dendrelaphis luzonensis OMNH OCGR" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes continent:North America" ; Times: 1
+	Query: "DRD 2629" ; Times: 2
+	Query: "class:Aves recordedby:Matthews basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lipinia pulchella omnh" ; Times: 1
+	Query: "scientificname:Vultur gryphus" ; Times: 9
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "specificepithet:reticularia genus:Deirochelys hastissue:1" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "Calamaria OCGR" ; Times: 1
+	Query: "OCGR Albay" ; Times: 1
+	Query: "mappable:1 scientificname:Odontophrynus occidentalis" ; Times: 2
+	Query: "&#34;Calamaria&#34; Labo Philippines ESF 248" ; Times: 1
+	Query: "specificepithet:davidianus genus:Elaphurus" ; Times: 1
+	Query: "eutropis indeprensa ku" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon hastissue:1" ; Times: 1
+	Query: "institutioncode:OMNH Rhabdophis" ; Times: 1
+	Query: "OCGR Ptyas" ; Times: 5
+	Query: "scientificname:Tremarctos ornatus" ; Times: 18
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 976 download events in this period)
+Total number of records downloaded: 2130
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 55
+	Country: Chile ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-13 ; Times: 6
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-22 ; Times: 4
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-03 ; Times: 5
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-01 ; Times: 4
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys hastissue:1" ; Times: 2
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 2
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:concinna genus:Pseudemys hastissue:1" ; Times: 2
+	Query: "genus:Melanerpes year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "Ahaetulla OCGR" ; Times: 1
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "squirrel treefrog" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys hastissue:1" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "order:Serpentes" ; Times: 1
+	Query: "calomys fecundus" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 2
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "order:Primates institutioncode:OMNH" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Amphibia" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "family:Calcariidae hastissue:1" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "specificepithet:reticularia genus:Deirochelys hastissue:1" ; Times: 1
+	Query: "indotyphlops braminus" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Oxyrhabdium OCGR" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "specificepithet:ouachitensis genus:Graptemys hastissue:1" ; Times: 2
+
+
+End of report.
