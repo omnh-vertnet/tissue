@@ -1,0 +1,136 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 1384
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Poland ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 14
+	Country: United States ; Times: 51
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 17
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 12
+	Date: 2020-06-04 ; Times: 13
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 14
+	Date: 2020-06-03 ; Times: 9
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-10 ; Times: 7
+	Date: 2020-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Carphophis vermis" ; Times: 2
+	Query: "genus:Brachymeles specificepithet:lukbani" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "Oklahoma cemophorA" ; Times: 8
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "genus:Brachymeles hastissue:1" ; Times: 7
+	Query: "AK13012" ; Times: 2
+	Query: "bobcat" ; Times: 2
+	Query: "AK13013" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 2
+	Query: "genus:Brachymeles specificepithet:lukbani hastissue:1" ; Times: 1
+	Query: "trimeresurus" ; Times: 1
+	Query: "box turtle" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Quiscalus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "genus:Acris institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Phymaturus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 4
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "Turtle Mountain Road" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 11
+	Query: "pit viper" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 1
+	Query: "Lithobates sphenocephalus OMNH" ; Times: 2
+	Query: "(Red-winged blackbird) hastissue:1" ; Times: 2
+	Query: "genus:Acris year &gt;= 2015 year &lt;= 2017 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "genus:trimeresurus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "genus:Acris specificepithet:blanchardi" ; Times: 2
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "hastissue:1 bothriechis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 474 download events in this period)
+Total number of records downloaded: 1702
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 24
+	Country: Poland ; Times: 2
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-10 ; Times: 5
+	Date: 2020-06-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "genus:Brachymeles specificepithet:lukbani hastissue:1" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "genus:Acris year &gt;= 2015 year &lt;= 2017 institutioncode:OMNH" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
