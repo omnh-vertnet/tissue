@@ -1,0 +1,213 @@
+Report for Institution Code OMNH, Resource tissue
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 724
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 66
+	Country: Peru ; Times: 11
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 22
+	Country: Sweden ; Times: 5
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-08 ; Times: 7
+	Date: 2020-12-07 ; Times: 10
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 19
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-02 ; Times: 16
+	Date: 2020-12-01 ; Times: 8
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-20 ; Times: 8
+	Date: 2020-12-22 ; Times: 7
+	Date: 2020-12-18 ; Times: 7
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 4
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 3
+	Date: 2020-12-14 ; Times: 28
+	Date: 2020-12-15 ; Times: 10
+	Date: 2020-12-16 ; Times: 5
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "setophaga coronata x auduboni" ; Times: 1
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "specificepithet:guanicoe genus:Lama" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 2
+	Query: "Jongsma specificepithet:gracilis genus:Cardioglossa" ; Times: 1
+	Query: "Rhinella arenarum" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "genus:Thalasseus hastissue:1" ; Times: 2
+	Query: "specificepithet:andinus genus:Abrothrix hastissue:1" ; Times: 3
+	Query: "fox squirrel" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Elk&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Cervus nippon" ; Times: 2
+	Query: "evolution" ; Times: 1
+	Query: "cervus nippon lifestage:adult" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "(red panda)" ; Times: 1
+	Query: "invasive species" ; Times: 4
+	Query: "CDS 8660" ; Times: 4
+	Query: "CDS 8662" ; Times: 3
+	Query: "notiomys" ; Times: 1
+	Query: "order:Chiroptera continent:South America year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "14651 KU" ; Times: 3
+	Query: "Phacochoerus" ; Times: 1
+	Query: "hog-nosed skunk" ; Times: 3
+	Query: "arizona glossy" ; Times: 1
+	Query: "family:Elapidae institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 2
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "indian leopard" ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "Felis nigripes" ; Times: 3
+	Query: "specificepithet:olivaceus genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "catalognumber:4457 institutioncode:OMNH" ; Times: 1
+	Query: "Bombycilla cedrorum" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "geoxus" ; Times: 2
+	Query: "11296" ; Times: 1
+	Query: "plethodon albagula" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "OMNH Lithobates palustris" ; Times: 2
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "gray fox" ; Times: 1
+	Query: "KU 4900" ; Times: 1
+	Query: "neotomys ebriosus" ; Times: 7
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Butler&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "CDS 8659" ; Times: 5
+	Query: "genus:Lepidodactylus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Myotis ruber" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "OMNH-OCGR-17955" ; Times: 1
+	Query: "OMNH 23496" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Pseudemys hastissue:1" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "marsupial" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "specificepithet:longipilis genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "mappable:1 scientificname:Bubulcus ibis" ; Times: 2
+	Query: "Ptyas luzonensis" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "Lasiurus blossevillii Argentina" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta caerulea" ; Times: 1
+	Query: "Sciurus ignitus" ; Times: 1
+	Query: "17519" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 24
+	Query: "peregrine" ; Times: 1
+	Query: "specificepithet:illuteus genus:Abrothrix hastissue:1" ; Times: 2
+	Query: "genus:Crotaphytus hastissue:1" ; Times: 6
+	Query: "KU 14651" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 705 download events in this period)
+Total number of records downloaded: 4029
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 1
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-23 ; Times: 6
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "order:Chiroptera continent:South America year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "eurycea longicauda" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "genus:Lepidodactylus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "specificepithet:illuteus genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "specificepithet:andinus genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "(Hemidactylium scutatum)" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "Pseudogekko" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "plethodon albagula" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
